@@ -1,0 +1,2501 @@
+S. No.,Date,Category,Subcategory,Sales
+0,Q3,Desktops,Accessories,4119
+1,Q3,Desktops,Components,4694
+2,Q4,Peripherals,Software Suites,2691
+3,Q2,Peripherals,Software Suites,1103
+4,Q4,Software,Software Suites,1804
+5,Q4,Peripherals,Software Suites,1955
+6,Q4,Laptops,Accessories,2099
+7,Q1,Software,Software Suites,1403
+8,Q3,Software,Accessories,1087
+9,Q2,Peripherals,Accessories,4861
+10,Q2,Peripherals,Components,3917
+11,Q1,Laptops,Accessories,1214
+12,Q2,Desktops,Software Suites,3693
+13,Q2,Desktops,Accessories,3515
+14,Q4,Desktops,Accessories,3810
+15,Q3,Software,Accessories,2851
+16,Q2,Software,Accessories,1198
+17,Q3,Software,Accessories,2380
+18,Q1,Software,Software Suites,1525
+19,Q3,Peripherals,Components,2478
+20,Q4,Peripherals,Accessories,2905
+21,Q1,Peripherals,Software Suites,1978
+22,Q2,Desktops,Components,2970
+23,Q3,Desktops,Accessories,3522
+24,Q1,Software,Accessories,4035
+25,Q1,Peripherals,Accessories,4760
+26,Q1,Laptops,Components,4547
+27,Q4,Peripherals,Accessories,2164
+28,Q2,Desktops,Accessories,1368
+29,Q2,Laptops,Components,4183
+30,Q4,Laptops,Software Suites,3265
+31,Q4,Laptops,Accessories,2946
+32,Q4,Laptops,Accessories,4193
+33,Q1,Software,Components,3160
+34,Q2,Peripherals,Components,4070
+35,Q2,Software,Software Suites,1683
+36,Q4,Peripherals,Accessories,3665
+37,Q3,Desktops,Components,1744
+38,Q3,Software,Accessories,1471
+39,Q1,Laptops,Software Suites,1477
+40,Q3,Peripherals,Software Suites,4409
+41,Q2,Desktops,Components,4090
+42,Q2,Laptops,Software Suites,4211
+43,Q1,Laptops,Accessories,3965
+44,Q1,Software,Components,1638
+45,Q3,Desktops,Software Suites,1307
+46,Q1,Laptops,Accessories,4538
+47,Q4,Desktops,Software Suites,3449
+48,Q2,Peripherals,Components,1358
+49,Q4,Desktops,Software Suites,2042
+50,Q4,Peripherals,Components,1033
+51,Q2,Peripherals,Accessories,3742
+52,Q4,Peripherals,Software Suites,1231
+53,Q3,Peripherals,Software Suites,3919
+54,Q2,Laptops,Accessories,4714
+55,Q2,Desktops,Accessories,4046
+56,Q3,Software,Components,1626
+57,Q4,Software,Software Suites,3540
+58,Q3,Laptops,Components,4396
+59,Q2,Software,Components,4121
+60,Q3,Laptops,Accessories,1187
+61,Q2,Peripherals,Accessories,4659
+62,Q2,Desktops,Software Suites,3055
+63,Q3,Laptops,Software Suites,3961
+64,Q4,Desktops,Accessories,1022
+65,Q4,Desktops,Components,2089
+66,Q4,Desktops,Software Suites,1954
+67,Q3,Software,Components,2316
+68,Q2,Laptops,Software Suites,4001
+69,Q2,Laptops,Components,3640
+70,Q4,Software,Components,4101
+71,Q1,Desktops,Components,2451
+72,Q1,Desktops,Components,1238
+73,Q1,Peripherals,Software Suites,2177
+74,Q4,Peripherals,Software Suites,4635
+75,Q2,Desktops,Accessories,2834
+76,Q1,Laptops,Components,1116
+77,Q4,Desktops,Software Suites,1147
+78,Q3,Software,Components,2886
+79,Q2,Desktops,Software Suites,3764
+80,Q2,Peripherals,Components,3920
+81,Q1,Software,Components,4411
+82,Q2,Software,Components,1476
+83,Q2,Desktops,Accessories,3471
+84,Q3,Peripherals,Components,3048
+85,Q1,Laptops,Components,4761
+86,Q2,Laptops,Accessories,1667
+87,Q3,Desktops,Accessories,3130
+88,Q4,Laptops,Software Suites,1305
+89,Q4,Software,Components,4758
+90,Q3,Laptops,Components,1662
+91,Q1,Software,Software Suites,4930
+92,Q3,Laptops,Accessories,4213
+93,Q2,Peripherals,Software Suites,3090
+94,Q4,Laptops,Components,4389
+95,Q1,Software,Components,2460
+96,Q3,Peripherals,Accessories,3614
+97,Q2,Laptops,Components,1002
+98,Q3,Laptops,Accessories,1848
+99,Q4,Software,Accessories,2542
+100,Q2,Peripherals,Software Suites,3425
+101,Q4,Peripherals,Components,4371
+102,Q1,Software,Accessories,4241
+103,Q2,Laptops,Accessories,2706
+104,Q4,Laptops,Accessories,1196
+105,Q2,Laptops,Accessories,4933
+106,Q1,Laptops,Components,4819
+107,Q2,Software,Components,2074
+108,Q3,Software,Software Suites,4640
+109,Q2,Peripherals,Accessories,3540
+110,Q1,Software,Software Suites,4836
+111,Q4,Peripherals,Software Suites,1302
+112,Q4,Software,Components,4716
+113,Q4,Desktops,Accessories,1051
+114,Q3,Desktops,Components,1904
+115,Q1,Desktops,Accessories,2386
+116,Q2,Software,Components,3465
+117,Q2,Laptops,Components,1943
+118,Q4,Laptops,Components,3890
+119,Q4,Software,Software Suites,3031
+120,Q2,Peripherals,Components,4465
+121,Q1,Software,Software Suites,3815
+122,Q1,Peripherals,Components,4935
+123,Q1,Software,Accessories,2365
+124,Q1,Peripherals,Software Suites,2946
+125,Q4,Peripherals,Components,2917
+126,Q1,Peripherals,Components,1777
+127,Q4,Desktops,Software Suites,2641
+128,Q4,Desktops,Accessories,3389
+129,Q3,Software,Accessories,1046
+130,Q4,Desktops,Software Suites,1136
+131,Q2,Desktops,Accessories,4738
+132,Q4,Laptops,Accessories,3462
+133,Q1,Laptops,Accessories,4080
+134,Q3,Software,Software Suites,3087
+135,Q1,Laptops,Software Suites,2229
+136,Q2,Desktops,Components,1246
+137,Q2,Laptops,Accessories,2849
+138,Q2,Desktops,Software Suites,3783
+139,Q2,Desktops,Software Suites,1920
+140,Q3,Desktops,Accessories,1211
+141,Q4,Laptops,Components,3543
+142,Q3,Laptops,Software Suites,3378
+143,Q2,Desktops,Components,3450
+144,Q1,Software,Components,1452
+145,Q1,Laptops,Software Suites,2715
+146,Q1,Peripherals,Accessories,3962
+147,Q1,Peripherals,Software Suites,3738
+148,Q2,Laptops,Components,2314
+149,Q3,Desktops,Components,2276
+150,Q3,Peripherals,Software Suites,2058
+151,Q4,Laptops,Software Suites,1887
+152,Q2,Desktops,Accessories,2865
+153,Q4,Laptops,Components,4812
+154,Q1,Software,Software Suites,3630
+155,Q1,Software,Components,4487
+156,Q1,Laptops,Accessories,1101
+157,Q1,Peripherals,Software Suites,1891
+158,Q2,Software,Accessories,4154
+159,Q1,Peripherals,Accessories,1656
+160,Q1,Software,Software Suites,1531
+161,Q2,Software,Software Suites,4390
+162,Q4,Software,Components,4144
+163,Q4,Peripherals,Accessories,1728
+164,Q2,Software,Components,1921
+165,Q3,Software,Software Suites,4039
+166,Q4,Desktops,Components,1124
+167,Q3,Laptops,Accessories,4080
+168,Q1,Laptops,Software Suites,2981
+169,Q1,Peripherals,Components,1534
+170,Q4,Peripherals,Components,3969
+171,Q3,Desktops,Components,1676
+172,Q3,Desktops,Accessories,4448
+173,Q4,Desktops,Accessories,2875
+174,Q1,Peripherals,Software Suites,2255
+175,Q2,Desktops,Software Suites,4593
+176,Q2,Software,Accessories,2001
+177,Q3,Laptops,Components,3388
+178,Q1,Laptops,Components,4413
+179,Q3,Desktops,Components,2222
+180,Q2,Desktops,Accessories,3421
+181,Q3,Software,Accessories,2476
+182,Q2,Software,Software Suites,4067
+183,Q2,Peripherals,Software Suites,3348
+184,Q4,Peripherals,Accessories,3813
+185,Q2,Software,Software Suites,2250
+186,Q3,Software,Accessories,4025
+187,Q2,Desktops,Accessories,4848
+188,Q2,Desktops,Components,4937
+189,Q2,Desktops,Software Suites,3961
+190,Q4,Desktops,Components,2938
+191,Q2,Peripherals,Software Suites,2754
+192,Q2,Software,Accessories,1864
+193,Q3,Peripherals,Software Suites,1077
+194,Q1,Laptops,Components,1932
+195,Q1,Desktops,Components,1127
+196,Q2,Software,Accessories,2333
+197,Q3,Peripherals,Components,4940
+198,Q1,Desktops,Software Suites,1903
+199,Q3,Desktops,Software Suites,4456
+200,Q4,Laptops,Software Suites,2267
+201,Q2,Laptops,Accessories,3541
+202,Q1,Desktops,Accessories,2360
+203,Q1,Laptops,Software Suites,4153
+204,Q4,Peripherals,Accessories,4823
+205,Q3,Software,Components,1627
+206,Q2,Software,Accessories,2442
+207,Q3,Laptops,Software Suites,2947
+208,Q4,Software,Components,1635
+209,Q2,Peripherals,Software Suites,2731
+210,Q2,Software,Components,4878
+211,Q4,Software,Accessories,4069
+212,Q3,Desktops,Software Suites,4656
+213,Q4,Peripherals,Software Suites,1332
+214,Q4,Peripherals,Accessories,4462
+215,Q3,Desktops,Accessories,2837
+216,Q4,Laptops,Accessories,4159
+217,Q4,Laptops,Software Suites,2251
+218,Q1,Peripherals,Software Suites,4291
+219,Q4,Laptops,Software Suites,4810
+220,Q4,Laptops,Software Suites,4159
+221,Q2,Desktops,Accessories,2636
+222,Q4,Peripherals,Accessories,4086
+223,Q3,Laptops,Components,1939
+224,Q4,Desktops,Components,4494
+225,Q1,Software,Components,3777
+226,Q4,Desktops,Components,1888
+227,Q2,Software,Components,3623
+228,Q2,Peripherals,Accessories,2082
+229,Q1,Peripherals,Software Suites,4152
+230,Q1,Laptops,Components,3345
+231,Q3,Desktops,Accessories,1398
+232,Q3,Software,Components,3146
+233,Q1,Desktops,Accessories,4254
+234,Q2,Software,Components,1897
+235,Q3,Desktops,Accessories,1004
+236,Q4,Software,Components,2136
+237,Q4,Laptops,Components,3584
+238,Q4,Peripherals,Software Suites,3777
+239,Q2,Desktops,Components,3863
+240,Q1,Peripherals,Software Suites,4993
+241,Q2,Desktops,Software Suites,1288
+242,Q4,Laptops,Components,4633
+243,Q2,Software,Components,3112
+244,Q4,Peripherals,Accessories,4109
+245,Q1,Software,Components,3161
+246,Q1,Peripherals,Software Suites,1208
+247,Q1,Desktops,Software Suites,2272
+248,Q1,Peripherals,Components,3194
+249,Q3,Desktops,Software Suites,2808
+250,Q4,Laptops,Components,2791
+251,Q3,Software,Software Suites,3403
+252,Q4,Laptops,Software Suites,2328
+253,Q1,Peripherals,Software Suites,1964
+254,Q1,Laptops,Accessories,1463
+255,Q2,Software,Software Suites,3468
+256,Q2,Laptops,Software Suites,4911
+257,Q2,Laptops,Components,1358
+258,Q1,Desktops,Software Suites,2657
+259,Q1,Desktops,Components,3963
+260,Q4,Desktops,Accessories,3443
+261,Q1,Desktops,Software Suites,1798
+262,Q1,Software,Components,1226
+263,Q2,Peripherals,Components,3998
+264,Q3,Peripherals,Components,3157
+265,Q3,Peripherals,Components,1529
+266,Q3,Laptops,Software Suites,4254
+267,Q4,Software,Components,2193
+268,Q3,Software,Software Suites,3915
+269,Q4,Peripherals,Accessories,1617
+270,Q2,Peripherals,Accessories,3008
+271,Q3,Laptops,Software Suites,3953
+272,Q4,Peripherals,Accessories,2884
+273,Q3,Desktops,Accessories,3513
+274,Q2,Desktops,Components,3011
+275,Q4,Laptops,Components,1850
+276,Q1,Software,Software Suites,2878
+277,Q1,Software,Software Suites,1156
+278,Q3,Desktops,Components,1595
+279,Q3,Peripherals,Software Suites,1772
+280,Q4,Laptops,Components,1778
+281,Q2,Software,Accessories,1535
+282,Q1,Desktops,Accessories,3545
+283,Q2,Peripherals,Accessories,2760
+284,Q1,Peripherals,Components,3565
+285,Q2,Peripherals,Software Suites,2318
+286,Q4,Laptops,Accessories,3146
+287,Q3,Software,Software Suites,3954
+288,Q2,Desktops,Components,2644
+289,Q4,Software,Components,2417
+290,Q1,Software,Accessories,3674
+291,Q1,Laptops,Software Suites,4965
+292,Q3,Laptops,Components,2108
+293,Q3,Laptops,Components,4386
+294,Q2,Laptops,Software Suites,2653
+295,Q4,Peripherals,Accessories,4196
+296,Q3,Peripherals,Software Suites,1322
+297,Q1,Software,Software Suites,4594
+298,Q2,Software,Software Suites,2161
+299,Q3,Laptops,Components,2912
+300,Q1,Software,Components,3511
+301,Q3,Peripherals,Accessories,4614
+302,Q3,Peripherals,Accessories,2910
+303,Q4,Peripherals,Accessories,1830
+304,Q4,Laptops,Components,1405
+305,Q2,Peripherals,Software Suites,2624
+306,Q4,Peripherals,Software Suites,3977
+307,Q4,Laptops,Software Suites,3296
+308,Q1,Peripherals,Software Suites,2309
+309,Q1,Laptops,Components,2151
+310,Q3,Peripherals,Components,3897
+311,Q2,Desktops,Components,3776
+312,Q2,Peripherals,Accessories,2604
+313,Q4,Peripherals,Software Suites,4592
+314,Q3,Peripherals,Accessories,4497
+315,Q3,Desktops,Accessories,1305
+316,Q1,Software,Components,1412
+317,Q2,Laptops,Accessories,3316
+318,Q3,Software,Software Suites,2404
+319,Q3,Laptops,Accessories,1191
+320,Q4,Peripherals,Components,2922
+321,Q3,Software,Software Suites,3546
+322,Q1,Peripherals,Components,3019
+323,Q4,Laptops,Accessories,2157
+324,Q3,Desktops,Accessories,4507
+325,Q3,Software,Software Suites,3586
+326,Q2,Laptops,Components,1112
+327,Q2,Desktops,Accessories,2136
+328,Q4,Desktops,Components,4245
+329,Q2,Software,Software Suites,3685
+330,Q2,Software,Components,1782
+331,Q3,Peripherals,Components,3191
+332,Q3,Laptops,Software Suites,4114
+333,Q4,Software,Accessories,2181
+334,Q1,Peripherals,Components,1639
+335,Q2,Peripherals,Components,4121
+336,Q4,Software,Components,3860
+337,Q2,Laptops,Software Suites,1082
+338,Q3,Software,Components,4889
+339,Q3,Software,Software Suites,3293
+340,Q1,Peripherals,Components,4259
+341,Q4,Laptops,Accessories,4482
+342,Q3,Desktops,Software Suites,1339
+343,Q2,Peripherals,Accessories,4509
+344,Q1,Laptops,Accessories,2371
+345,Q1,Peripherals,Accessories,2796
+346,Q3,Software,Software Suites,3445
+347,Q2,Software,Components,2193
+348,Q2,Desktops,Components,4555
+349,Q1,Laptops,Components,4380
+350,Q3,Peripherals,Software Suites,1207
+351,Q1,Software,Components,3498
+352,Q4,Desktops,Components,1468
+353,Q2,Peripherals,Accessories,1726
+354,Q3,Desktops,Components,2826
+355,Q4,Desktops,Accessories,1808
+356,Q4,Software,Accessories,4771
+357,Q2,Laptops,Accessories,4238
+358,Q1,Peripherals,Accessories,4671
+359,Q2,Laptops,Software Suites,2087
+360,Q4,Laptops,Accessories,3355
+361,Q3,Software,Software Suites,2241
+362,Q3,Software,Components,1764
+363,Q1,Peripherals,Components,4540
+364,Q3,Peripherals,Accessories,2143
+365,Q4,Software,Components,2094
+366,Q3,Laptops,Software Suites,3716
+367,Q1,Software,Components,1196
+368,Q4,Desktops,Accessories,2079
+369,Q4,Laptops,Components,3912
+370,Q2,Desktops,Components,2814
+371,Q4,Peripherals,Software Suites,4265
+372,Q4,Desktops,Software Suites,4876
+373,Q1,Software,Software Suites,2394
+374,Q1,Peripherals,Components,3711
+375,Q1,Desktops,Software Suites,1396
+376,Q1,Laptops,Components,3949
+377,Q2,Peripherals,Components,1708
+378,Q1,Laptops,Software Suites,4423
+379,Q3,Laptops,Accessories,3717
+380,Q4,Peripherals,Software Suites,1851
+381,Q1,Peripherals,Software Suites,1233
+382,Q1,Desktops,Accessories,3860
+383,Q4,Desktops,Software Suites,3567
+384,Q1,Laptops,Software Suites,2793
+385,Q1,Desktops,Components,4143
+386,Q4,Desktops,Components,4825
+387,Q1,Peripherals,Accessories,3268
+388,Q4,Laptops,Accessories,1677
+389,Q2,Peripherals,Software Suites,1672
+390,Q3,Desktops,Accessories,3398
+391,Q4,Laptops,Components,1345
+392,Q1,Peripherals,Software Suites,2869
+393,Q4,Peripherals,Components,4912
+394,Q4,Peripherals,Software Suites,2093
+395,Q4,Software,Accessories,2621
+396,Q3,Laptops,Accessories,3705
+397,Q3,Software,Software Suites,1620
+398,Q1,Software,Accessories,3543
+399,Q3,Laptops,Components,4889
+400,Q3,Desktops,Components,4085
+401,Q4,Peripherals,Accessories,3830
+402,Q4,Peripherals,Components,2825
+403,Q1,Laptops,Software Suites,4778
+404,Q3,Laptops,Software Suites,2453
+405,Q3,Laptops,Components,4298
+406,Q4,Peripherals,Components,4585
+407,Q4,Laptops,Accessories,2588
+408,Q3,Software,Accessories,4046
+409,Q2,Desktops,Components,3782
+410,Q3,Laptops,Accessories,4436
+411,Q2,Peripherals,Components,4336
+412,Q4,Software,Components,4909
+413,Q2,Software,Accessories,2170
+414,Q1,Peripherals,Accessories,1293
+415,Q2,Desktops,Accessories,3504
+416,Q1,Desktops,Components,4442
+417,Q1,Software,Components,3486
+418,Q4,Laptops,Components,1252
+419,Q4,Software,Software Suites,2670
+420,Q4,Laptops,Accessories,3837
+421,Q3,Desktops,Accessories,1207
+422,Q3,Desktops,Components,2445
+423,Q1,Desktops,Components,3516
+424,Q4,Software,Accessories,3305
+425,Q3,Software,Accessories,2857
+426,Q2,Desktops,Components,4351
+427,Q3,Peripherals,Components,2545
+428,Q4,Peripherals,Components,4937
+429,Q2,Peripherals,Components,1375
+430,Q3,Laptops,Software Suites,4293
+431,Q4,Software,Accessories,4243
+432,Q3,Desktops,Components,3980
+433,Q1,Laptops,Components,1842
+434,Q4,Peripherals,Accessories,3033
+435,Q3,Peripherals,Software Suites,3265
+436,Q2,Laptops,Components,2537
+437,Q3,Laptops,Accessories,2192
+438,Q2,Laptops,Accessories,3979
+439,Q1,Software,Components,4992
+440,Q4,Peripherals,Components,2823
+441,Q2,Software,Accessories,2684
+442,Q1,Peripherals,Components,4401
+443,Q4,Peripherals,Software Suites,3992
+444,Q4,Laptops,Components,1631
+445,Q3,Peripherals,Software Suites,1696
+446,Q3,Desktops,Components,1593
+447,Q4,Software,Accessories,1820
+448,Q2,Software,Accessories,3294
+449,Q4,Laptops,Components,1669
+450,Q2,Laptops,Software Suites,1852
+451,Q2,Software,Software Suites,4226
+452,Q2,Software,Accessories,4429
+453,Q1,Peripherals,Accessories,4452
+454,Q3,Software,Software Suites,4839
+455,Q3,Laptops,Accessories,2248
+456,Q3,Software,Components,2235
+457,Q3,Peripherals,Software Suites,1732
+458,Q2,Peripherals,Accessories,4136
+459,Q3,Peripherals,Components,4234
+460,Q3,Software,Software Suites,4721
+461,Q3,Desktops,Software Suites,3583
+462,Q3,Peripherals,Software Suites,3930
+463,Q2,Desktops,Accessories,3632
+464,Q3,Software,Software Suites,2829
+465,Q2,Desktops,Software Suites,4044
+466,Q1,Peripherals,Accessories,1781
+467,Q4,Desktops,Accessories,2807
+468,Q3,Desktops,Components,4401
+469,Q3,Desktops,Software Suites,2697
+470,Q1,Desktops,Accessories,3104
+471,Q1,Peripherals,Software Suites,1649
+472,Q1,Peripherals,Software Suites,2403
+473,Q4,Software,Components,4006
+474,Q4,Laptops,Components,1732
+475,Q2,Desktops,Components,3300
+476,Q1,Desktops,Components,3837
+477,Q3,Laptops,Components,3570
+478,Q4,Software,Software Suites,4309
+479,Q2,Peripherals,Components,2079
+480,Q3,Peripherals,Accessories,1477
+481,Q1,Laptops,Accessories,3395
+482,Q4,Desktops,Software Suites,4167
+483,Q2,Software,Software Suites,2336
+484,Q2,Software,Accessories,4215
+485,Q1,Peripherals,Software Suites,2202
+486,Q1,Peripherals,Accessories,3355
+487,Q1,Software,Components,2898
+488,Q4,Desktops,Software Suites,1207
+489,Q2,Software,Accessories,4682
+490,Q4,Peripherals,Components,4008
+491,Q2,Desktops,Components,1072
+492,Q2,Desktops,Software Suites,3145
+493,Q2,Desktops,Accessories,1113
+494,Q1,Laptops,Accessories,3928
+495,Q4,Laptops,Accessories,1141
+496,Q2,Software,Software Suites,1966
+497,Q4,Software,Accessories,2211
+498,Q4,Laptops,Accessories,3393
+499,Q4,Peripherals,Components,3528
+500,Q4,Software,Accessories,3725
+501,Q3,Desktops,Components,3780
+502,Q2,Software,Components,2661
+503,Q1,Software,Components,4416
+504,Q1,Peripherals,Components,1880
+505,Q1,Laptops,Software Suites,1520
+506,Q3,Laptops,Software Suites,2408
+507,Q2,Peripherals,Software Suites,2587
+508,Q1,Software,Software Suites,2059
+509,Q2,Desktops,Software Suites,1557
+510,Q2,Laptops,Components,1237
+511,Q2,Software,Accessories,3983
+512,Q3,Desktops,Software Suites,2189
+513,Q1,Software,Software Suites,4915
+514,Q3,Software,Software Suites,3528
+515,Q3,Desktops,Accessories,2518
+516,Q3,Desktops,Software Suites,4387
+517,Q1,Desktops,Components,2154
+518,Q1,Software,Components,2666
+519,Q4,Laptops,Software Suites,2043
+520,Q4,Desktops,Accessories,3179
+521,Q2,Software,Components,3362
+522,Q4,Laptops,Accessories,1457
+523,Q1,Laptops,Components,4705
+524,Q1,Desktops,Accessories,2213
+525,Q1,Peripherals,Accessories,3504
+526,Q3,Desktops,Software Suites,1343
+527,Q1,Desktops,Accessories,2881
+528,Q4,Desktops,Components,3027
+529,Q1,Laptops,Components,4340
+530,Q2,Peripherals,Software Suites,3815
+531,Q2,Software,Software Suites,4911
+532,Q1,Desktops,Components,4499
+533,Q1,Peripherals,Components,2888
+534,Q2,Desktops,Accessories,1585
+535,Q3,Laptops,Components,3799
+536,Q4,Software,Components,3552
+537,Q1,Software,Components,2908
+538,Q4,Desktops,Software Suites,2940
+539,Q1,Peripherals,Components,2417
+540,Q3,Laptops,Components,2859
+541,Q4,Desktops,Software Suites,3625
+542,Q2,Software,Components,1223
+543,Q2,Desktops,Accessories,1871
+544,Q1,Laptops,Components,4589
+545,Q3,Laptops,Software Suites,3058
+546,Q4,Desktops,Components,2544
+547,Q3,Laptops,Software Suites,4779
+548,Q2,Peripherals,Accessories,4537
+549,Q1,Desktops,Software Suites,4031
+550,Q1,Software,Components,3327
+551,Q1,Desktops,Software Suites,4851
+552,Q2,Peripherals,Components,1587
+553,Q3,Peripherals,Software Suites,3688
+554,Q1,Software,Software Suites,2232
+555,Q4,Desktops,Accessories,2173
+556,Q4,Laptops,Components,1195
+557,Q3,Desktops,Accessories,4671
+558,Q3,Desktops,Components,3752
+559,Q1,Software,Accessories,4111
+560,Q3,Software,Software Suites,4341
+561,Q4,Software,Accessories,2393
+562,Q1,Desktops,Accessories,4485
+563,Q1,Laptops,Components,2280
+564,Q4,Desktops,Software Suites,4031
+565,Q4,Laptops,Software Suites,3671
+566,Q4,Software,Components,3092
+567,Q1,Desktops,Accessories,1446
+568,Q2,Software,Components,2879
+569,Q3,Peripherals,Accessories,1090
+570,Q4,Laptops,Software Suites,3947
+571,Q4,Software,Software Suites,4380
+572,Q1,Peripherals,Software Suites,3289
+573,Q2,Peripherals,Accessories,4105
+574,Q3,Software,Components,4795
+575,Q4,Software,Software Suites,3475
+576,Q4,Software,Accessories,2390
+577,Q2,Desktops,Software Suites,4991
+578,Q4,Software,Components,1346
+579,Q4,Software,Software Suites,1851
+580,Q3,Peripherals,Accessories,2582
+581,Q2,Peripherals,Components,3822
+582,Q2,Software,Components,2467
+583,Q1,Peripherals,Accessories,4029
+584,Q4,Laptops,Accessories,4543
+585,Q3,Desktops,Accessories,3887
+586,Q1,Laptops,Accessories,3511
+587,Q4,Software,Accessories,2530
+588,Q4,Desktops,Software Suites,1400
+589,Q4,Laptops,Software Suites,1059
+590,Q3,Laptops,Components,3384
+591,Q2,Peripherals,Components,3661
+592,Q1,Peripherals,Accessories,1688
+593,Q2,Software,Components,4550
+594,Q4,Desktops,Components,2542
+595,Q1,Desktops,Software Suites,1764
+596,Q4,Laptops,Software Suites,3136
+597,Q1,Peripherals,Accessories,4374
+598,Q2,Software,Accessories,3432
+599,Q4,Software,Software Suites,3161
+600,Q4,Desktops,Software Suites,4706
+601,Q4,Laptops,Components,2271
+602,Q2,Desktops,Accessories,1336
+603,Q4,Peripherals,Accessories,2039
+604,Q2,Peripherals,Accessories,1192
+605,Q3,Software,Software Suites,3939
+606,Q1,Desktops,Components,3336
+607,Q1,Desktops,Software Suites,3787
+608,Q1,Software,Accessories,1727
+609,Q4,Laptops,Software Suites,1707
+610,Q3,Desktops,Accessories,2373
+611,Q1,Software,Components,1367
+612,Q1,Laptops,Software Suites,3052
+613,Q3,Peripherals,Components,2785
+614,Q4,Peripherals,Components,1143
+615,Q2,Desktops,Software Suites,1675
+616,Q4,Laptops,Accessories,1498
+617,Q2,Peripherals,Software Suites,1751
+618,Q4,Desktops,Components,3674
+619,Q3,Desktops,Accessories,1243
+620,Q3,Laptops,Software Suites,3212
+621,Q3,Peripherals,Software Suites,2189
+622,Q1,Desktops,Software Suites,2421
+623,Q4,Peripherals,Software Suites,1465
+624,Q1,Software,Software Suites,4898
+625,Q1,Laptops,Accessories,2605
+626,Q2,Peripherals,Software Suites,3108
+627,Q4,Desktops,Components,4873
+628,Q1,Desktops,Components,4176
+629,Q4,Laptops,Software Suites,3241
+630,Q2,Peripherals,Software Suites,4231
+631,Q2,Software,Components,4261
+632,Q3,Laptops,Accessories,2937
+633,Q3,Peripherals,Accessories,4042
+634,Q3,Desktops,Accessories,2908
+635,Q1,Desktops,Components,2774
+636,Q2,Software,Components,1915
+637,Q2,Desktops,Components,3937
+638,Q1,Laptops,Accessories,2233
+639,Q2,Peripherals,Components,2427
+640,Q1,Laptops,Software Suites,2663
+641,Q2,Peripherals,Components,1526
+642,Q1,Peripherals,Components,2068
+643,Q4,Desktops,Components,1607
+644,Q1,Laptops,Accessories,4075
+645,Q1,Software,Components,3630
+646,Q2,Desktops,Accessories,3382
+647,Q3,Peripherals,Accessories,2310
+648,Q2,Software,Accessories,3722
+649,Q2,Peripherals,Software Suites,4423
+650,Q4,Laptops,Accessories,4974
+651,Q4,Desktops,Accessories,3682
+652,Q2,Laptops,Components,1594
+653,Q1,Peripherals,Software Suites,1415
+654,Q4,Desktops,Software Suites,3289
+655,Q3,Desktops,Software Suites,2717
+656,Q1,Software,Software Suites,4283
+657,Q3,Laptops,Accessories,3709
+658,Q4,Laptops,Components,2490
+659,Q2,Software,Software Suites,1274
+660,Q4,Laptops,Accessories,4115
+661,Q1,Desktops,Accessories,2418
+662,Q4,Software,Components,3714
+663,Q1,Desktops,Software Suites,3139
+664,Q2,Laptops,Software Suites,4790
+665,Q1,Laptops,Accessories,4620
+666,Q3,Laptops,Accessories,2864
+667,Q1,Desktops,Accessories,2288
+668,Q4,Software,Components,2285
+669,Q4,Peripherals,Components,1599
+670,Q3,Software,Accessories,3241
+671,Q3,Peripherals,Software Suites,3662
+672,Q4,Peripherals,Components,1978
+673,Q3,Laptops,Accessories,1887
+674,Q4,Desktops,Software Suites,4223
+675,Q3,Software,Software Suites,2414
+676,Q4,Software,Components,2533
+677,Q2,Peripherals,Software Suites,4032
+678,Q4,Laptops,Components,4981
+679,Q3,Software,Accessories,4994
+680,Q3,Software,Software Suites,4583
+681,Q1,Peripherals,Software Suites,2490
+682,Q3,Laptops,Components,4513
+683,Q2,Software,Accessories,4590
+684,Q3,Laptops,Components,4551
+685,Q2,Laptops,Software Suites,3067
+686,Q1,Desktops,Software Suites,1969
+687,Q2,Software,Accessories,2778
+688,Q2,Software,Accessories,4447
+689,Q3,Peripherals,Software Suites,3333
+690,Q4,Software,Accessories,1049
+691,Q4,Desktops,Components,3133
+692,Q3,Laptops,Components,4341
+693,Q1,Laptops,Components,1730
+694,Q1,Peripherals,Accessories,4066
+695,Q4,Laptops,Accessories,3126
+696,Q2,Laptops,Accessories,2236
+697,Q1,Desktops,Components,2033
+698,Q1,Laptops,Accessories,3422
+699,Q1,Software,Software Suites,1932
+700,Q3,Software,Components,3229
+701,Q1,Desktops,Software Suites,2911
+702,Q3,Laptops,Components,1308
+703,Q1,Peripherals,Accessories,1232
+704,Q1,Desktops,Components,3110
+705,Q3,Laptops,Components,4845
+706,Q2,Laptops,Components,3500
+707,Q3,Software,Components,1411
+708,Q3,Peripherals,Accessories,2626
+709,Q1,Laptops,Software Suites,4552
+710,Q1,Desktops,Components,2859
+711,Q3,Desktops,Components,4269
+712,Q4,Laptops,Components,2695
+713,Q2,Peripherals,Software Suites,3710
+714,Q2,Peripherals,Components,1480
+715,Q3,Desktops,Components,2033
+716,Q4,Laptops,Software Suites,2412
+717,Q4,Software,Components,4174
+718,Q4,Peripherals,Components,2030
+719,Q3,Laptops,Components,1753
+720,Q2,Laptops,Components,4239
+721,Q4,Peripherals,Software Suites,4921
+722,Q1,Desktops,Accessories,1204
+723,Q1,Laptops,Software Suites,2831
+724,Q3,Software,Components,4446
+725,Q1,Laptops,Components,2546
+726,Q3,Peripherals,Components,4466
+727,Q2,Software,Components,1250
+728,Q2,Peripherals,Components,4145
+729,Q2,Peripherals,Components,1270
+730,Q2,Peripherals,Software Suites,3834
+731,Q2,Laptops,Accessories,1328
+732,Q1,Software,Accessories,1394
+733,Q3,Desktops,Software Suites,4117
+734,Q3,Peripherals,Components,1969
+735,Q4,Peripherals,Components,1617
+736,Q4,Peripherals,Components,2597
+737,Q2,Software,Software Suites,2002
+738,Q2,Laptops,Software Suites,1492
+739,Q4,Desktops,Components,3055
+740,Q4,Software,Components,4371
+741,Q3,Desktops,Software Suites,1997
+742,Q2,Software,Software Suites,3807
+743,Q4,Peripherals,Software Suites,3715
+744,Q1,Laptops,Components,2163
+745,Q4,Desktops,Components,2746
+746,Q2,Peripherals,Accessories,4640
+747,Q1,Desktops,Components,1120
+748,Q2,Desktops,Components,2024
+749,Q1,Laptops,Accessories,1616
+750,Q1,Software,Accessories,4603
+751,Q2,Desktops,Software Suites,4640
+752,Q1,Software,Software Suites,4856
+753,Q3,Software,Accessories,4559
+754,Q4,Desktops,Accessories,4406
+755,Q1,Software,Components,2193
+756,Q2,Software,Accessories,4737
+757,Q4,Laptops,Accessories,1988
+758,Q1,Software,Components,2576
+759,Q4,Peripherals,Software Suites,4347
+760,Q1,Peripherals,Software Suites,1801
+761,Q3,Peripherals,Components,4455
+762,Q2,Software,Components,1482
+763,Q4,Software,Components,3245
+764,Q3,Desktops,Components,1752
+765,Q4,Desktops,Components,1983
+766,Q4,Laptops,Components,3811
+767,Q1,Desktops,Software Suites,1322
+768,Q2,Software,Accessories,3075
+769,Q1,Desktops,Components,3173
+770,Q3,Desktops,Software Suites,4933
+771,Q1,Software,Components,1181
+772,Q1,Laptops,Components,2626
+773,Q3,Peripherals,Components,1053
+774,Q4,Laptops,Accessories,1215
+775,Q1,Laptops,Accessories,3375
+776,Q1,Software,Accessories,3556
+777,Q2,Peripherals,Accessories,4585
+778,Q4,Desktops,Software Suites,4591
+779,Q4,Desktops,Software Suites,1369
+780,Q3,Software,Components,3001
+781,Q1,Peripherals,Components,2066
+782,Q3,Laptops,Software Suites,1003
+783,Q1,Desktops,Software Suites,2962
+784,Q2,Peripherals,Accessories,2271
+785,Q2,Laptops,Accessories,1853
+786,Q2,Software,Accessories,4575
+787,Q4,Laptops,Accessories,2931
+788,Q2,Peripherals,Accessories,2992
+789,Q4,Laptops,Accessories,2316
+790,Q4,Software,Components,4687
+791,Q1,Peripherals,Components,3099
+792,Q4,Software,Accessories,3594
+793,Q1,Laptops,Components,1000
+794,Q3,Desktops,Components,3836
+795,Q4,Software,Accessories,1442
+796,Q4,Desktops,Accessories,2582
+797,Q1,Laptops,Components,1723
+798,Q1,Software,Accessories,3030
+799,Q3,Desktops,Accessories,1910
+800,Q2,Desktops,Components,1879
+801,Q4,Laptops,Components,1311
+802,Q3,Laptops,Components,2959
+803,Q2,Software,Software Suites,3267
+804,Q2,Peripherals,Components,2606
+805,Q1,Software,Components,4328
+806,Q3,Software,Accessories,3043
+807,Q4,Laptops,Software Suites,2937
+808,Q1,Peripherals,Software Suites,3526
+809,Q2,Laptops,Accessories,3469
+810,Q2,Peripherals,Components,2897
+811,Q3,Software,Accessories,2179
+812,Q4,Laptops,Software Suites,1081
+813,Q1,Desktops,Components,1913
+814,Q3,Peripherals,Accessories,1616
+815,Q4,Desktops,Software Suites,1655
+816,Q4,Software,Software Suites,1849
+817,Q2,Software,Accessories,2260
+818,Q3,Peripherals,Components,3072
+819,Q3,Laptops,Components,1373
+820,Q3,Software,Software Suites,1047
+821,Q2,Software,Components,4784
+822,Q3,Laptops,Components,1075
+823,Q2,Laptops,Components,4209
+824,Q3,Software,Components,2084
+825,Q3,Laptops,Software Suites,1999
+826,Q3,Software,Components,3967
+827,Q3,Software,Components,2374
+828,Q1,Peripherals,Accessories,4463
+829,Q3,Software,Software Suites,4840
+830,Q4,Laptops,Accessories,1589
+831,Q1,Peripherals,Components,2074
+832,Q2,Desktops,Software Suites,2898
+833,Q4,Peripherals,Components,4263
+834,Q2,Software,Software Suites,2803
+835,Q1,Peripherals,Software Suites,2001
+836,Q1,Peripherals,Accessories,3864
+837,Q3,Software,Accessories,2164
+838,Q4,Software,Accessories,3376
+839,Q3,Peripherals,Software Suites,3000
+840,Q4,Laptops,Software Suites,1831
+841,Q4,Software,Accessories,3063
+842,Q2,Laptops,Components,2767
+843,Q3,Laptops,Software Suites,4096
+844,Q1,Software,Accessories,2763
+845,Q1,Laptops,Accessories,2243
+846,Q1,Software,Accessories,3888
+847,Q1,Laptops,Components,2735
+848,Q2,Desktops,Software Suites,4449
+849,Q4,Software,Accessories,2531
+850,Q2,Peripherals,Components,2450
+851,Q4,Peripherals,Software Suites,2122
+852,Q3,Laptops,Accessories,3841
+853,Q2,Desktops,Components,2718
+854,Q4,Laptops,Accessories,3972
+855,Q4,Software,Accessories,1181
+856,Q4,Desktops,Components,1293
+857,Q4,Laptops,Software Suites,2760
+858,Q2,Laptops,Software Suites,1780
+859,Q2,Laptops,Software Suites,1435
+860,Q1,Laptops,Software Suites,3511
+861,Q3,Peripherals,Software Suites,4815
+862,Q4,Software,Components,3419
+863,Q3,Peripherals,Software Suites,2022
+864,Q2,Peripherals,Software Suites,1752
+865,Q2,Peripherals,Software Suites,3344
+866,Q4,Laptops,Components,2010
+867,Q1,Software,Components,2920
+868,Q4,Laptops,Components,3016
+869,Q4,Desktops,Software Suites,2285
+870,Q1,Software,Components,1032
+871,Q2,Software,Accessories,1130
+872,Q3,Laptops,Accessories,2628
+873,Q4,Software,Accessories,4383
+874,Q3,Peripherals,Components,4108
+875,Q1,Desktops,Accessories,1660
+876,Q2,Peripherals,Accessories,1916
+877,Q4,Software,Accessories,1271
+878,Q2,Laptops,Components,4322
+879,Q2,Laptops,Components,1293
+880,Q3,Desktops,Components,2954
+881,Q4,Desktops,Accessories,4510
+882,Q1,Laptops,Accessories,2823
+883,Q4,Software,Software Suites,1174
+884,Q2,Software,Software Suites,1723
+885,Q3,Desktops,Accessories,1730
+886,Q3,Laptops,Accessories,3835
+887,Q1,Peripherals,Accessories,4758
+888,Q3,Laptops,Components,3779
+889,Q1,Software,Accessories,3152
+890,Q4,Laptops,Accessories,2854
+891,Q2,Peripherals,Software Suites,3971
+892,Q4,Laptops,Software Suites,2291
+893,Q4,Peripherals,Components,1443
+894,Q1,Laptops,Components,3403
+895,Q1,Desktops,Software Suites,3768
+896,Q4,Peripherals,Software Suites,3801
+897,Q3,Peripherals,Components,1243
+898,Q3,Software,Software Suites,3554
+899,Q3,Desktops,Components,2749
+900,Q4,Software,Components,4900
+901,Q2,Peripherals,Components,4464
+902,Q1,Desktops,Accessories,3789
+903,Q1,Software,Software Suites,2025
+904,Q4,Desktops,Accessories,4715
+905,Q4,Peripherals,Software Suites,1164
+906,Q3,Desktops,Software Suites,3511
+907,Q2,Laptops,Software Suites,4872
+908,Q2,Desktops,Accessories,3882
+909,Q1,Software,Software Suites,1936
+910,Q2,Software,Software Suites,2869
+911,Q2,Laptops,Accessories,1077
+912,Q4,Software,Accessories,1380
+913,Q1,Peripherals,Software Suites,3790
+914,Q3,Peripherals,Software Suites,2236
+915,Q4,Software,Accessories,1144
+916,Q3,Desktops,Accessories,2474
+917,Q1,Software,Accessories,3334
+918,Q4,Desktops,Accessories,4253
+919,Q3,Desktops,Accessories,3161
+920,Q4,Desktops,Accessories,1098
+921,Q1,Peripherals,Accessories,3521
+922,Q2,Desktops,Software Suites,3555
+923,Q1,Software,Software Suites,1506
+924,Q3,Software,Accessories,2867
+925,Q1,Laptops,Components,2300
+926,Q1,Desktops,Accessories,3762
+927,Q2,Desktops,Software Suites,1441
+928,Q1,Software,Components,1420
+929,Q2,Peripherals,Accessories,1347
+930,Q1,Peripherals,Software Suites,4575
+931,Q1,Software,Components,4632
+932,Q4,Software,Components,3426
+933,Q3,Software,Accessories,2889
+934,Q2,Laptops,Components,2087
+935,Q2,Laptops,Software Suites,4812
+936,Q3,Laptops,Accessories,4037
+937,Q1,Laptops,Accessories,2879
+938,Q2,Software,Components,4346
+939,Q3,Desktops,Software Suites,4795
+940,Q3,Laptops,Software Suites,3489
+941,Q3,Desktops,Components,4756
+942,Q1,Desktops,Components,4698
+943,Q4,Laptops,Components,4671
+944,Q3,Software,Software Suites,2792
+945,Q4,Peripherals,Components,3767
+946,Q1,Desktops,Accessories,4731
+947,Q3,Peripherals,Accessories,1100
+948,Q2,Peripherals,Accessories,3266
+949,Q1,Desktops,Accessories,3921
+950,Q1,Laptops,Accessories,2314
+951,Q2,Peripherals,Components,1861
+952,Q2,Laptops,Components,2848
+953,Q3,Desktops,Software Suites,4034
+954,Q4,Peripherals,Software Suites,1973
+955,Q1,Software,Software Suites,4881
+956,Q2,Software,Components,1940
+957,Q1,Laptops,Software Suites,3906
+958,Q3,Peripherals,Software Suites,1204
+959,Q4,Desktops,Accessories,3563
+960,Q2,Desktops,Software Suites,1023
+961,Q1,Software,Software Suites,4374
+962,Q4,Peripherals,Components,3042
+963,Q3,Peripherals,Software Suites,3929
+964,Q4,Laptops,Software Suites,1668
+965,Q1,Software,Accessories,2399
+966,Q1,Software,Software Suites,1836
+967,Q1,Software,Software Suites,2750
+968,Q1,Laptops,Components,2823
+969,Q3,Peripherals,Accessories,1292
+970,Q2,Software,Software Suites,4687
+971,Q3,Laptops,Components,1665
+972,Q3,Laptops,Accessories,3913
+973,Q4,Desktops,Accessories,4851
+974,Q4,Peripherals,Components,1480
+975,Q4,Peripherals,Accessories,1463
+976,Q2,Software,Accessories,2454
+977,Q2,Desktops,Software Suites,3395
+978,Q4,Laptops,Software Suites,2504
+979,Q4,Desktops,Accessories,1064
+980,Q3,Peripherals,Software Suites,1768
+981,Q1,Desktops,Components,2141
+982,Q1,Software,Accessories,2174
+983,Q1,Peripherals,Components,1884
+984,Q3,Software,Software Suites,2710
+985,Q2,Laptops,Accessories,4518
+986,Q4,Laptops,Accessories,4098
+987,Q3,Laptops,Accessories,1152
+988,Q4,Laptops,Components,3030
+989,Q1,Software,Software Suites,3932
+990,Q4,Peripherals,Accessories,3139
+991,Q1,Peripherals,Software Suites,3228
+992,Q2,Software,Accessories,2272
+993,Q2,Peripherals,Software Suites,1794
+994,Q4,Desktops,Components,1963
+995,Q2,Peripherals,Components,3211
+996,Q2,Peripherals,Components,1214
+997,Q2,Software,Accessories,3063
+998,Q3,Laptops,Accessories,1334
+999,Q3,Desktops,Software Suites,1559
+1000,Q4,Laptops,Software Suites,2720
+1001,Q2,Laptops,Components,4483
+1002,Q4,Desktops,Software Suites,3685
+1003,Q3,Desktops,Components,3343
+1004,Q4,Laptops,Components,1469
+1005,Q2,Laptops,Software Suites,4813
+1006,Q3,Laptops,Software Suites,1223
+1007,Q3,Laptops,Accessories,1997
+1008,Q1,Software,Components,4772
+1009,Q4,Software,Accessories,4460
+1010,Q4,Laptops,Components,2244
+1011,Q2,Laptops,Accessories,4032
+1012,Q2,Software,Accessories,3528
+1013,Q3,Peripherals,Accessories,4213
+1014,Q1,Software,Components,2565
+1015,Q3,Desktops,Software Suites,3620
+1016,Q3,Desktops,Accessories,3720
+1017,Q1,Software,Accessories,2914
+1018,Q4,Laptops,Accessories,4899
+1019,Q4,Software,Components,1373
+1020,Q3,Peripherals,Software Suites,1000
+1021,Q1,Laptops,Software Suites,2885
+1022,Q3,Software,Components,4025
+1023,Q3,Software,Software Suites,3761
+1024,Q3,Peripherals,Components,4473
+1025,Q3,Peripherals,Accessories,4201
+1026,Q3,Peripherals,Components,1697
+1027,Q3,Desktops,Software Suites,1076
+1028,Q3,Software,Software Suites,1128
+1029,Q4,Software,Software Suites,1760
+1030,Q4,Laptops,Software Suites,1466
+1031,Q3,Desktops,Software Suites,4882
+1032,Q2,Peripherals,Components,4919
+1033,Q3,Software,Components,1864
+1034,Q4,Laptops,Accessories,4451
+1035,Q1,Desktops,Accessories,2824
+1036,Q2,Software,Accessories,4184
+1037,Q2,Software,Accessories,2044
+1038,Q4,Software,Software Suites,1338
+1039,Q2,Peripherals,Accessories,4881
+1040,Q2,Software,Components,3567
+1041,Q1,Desktops,Components,1826
+1042,Q1,Software,Accessories,2359
+1043,Q2,Desktops,Software Suites,3869
+1044,Q3,Laptops,Components,2126
+1045,Q4,Laptops,Software Suites,4006
+1046,Q3,Peripherals,Accessories,1104
+1047,Q2,Desktops,Software Suites,3942
+1048,Q1,Laptops,Software Suites,1650
+1049,Q2,Software,Software Suites,4912
+1050,Q2,Laptops,Software Suites,2413
+1051,Q1,Desktops,Software Suites,3509
+1052,Q2,Peripherals,Accessories,4157
+1053,Q2,Laptops,Software Suites,4427
+1054,Q1,Software,Components,3771
+1055,Q1,Peripherals,Software Suites,3607
+1056,Q1,Peripherals,Accessories,2672
+1057,Q2,Laptops,Components,3393
+1058,Q4,Desktops,Accessories,3165
+1059,Q1,Peripherals,Accessories,4250
+1060,Q1,Laptops,Accessories,4817
+1061,Q1,Laptops,Components,1203
+1062,Q3,Desktops,Components,1311
+1063,Q3,Laptops,Components,4723
+1064,Q4,Desktops,Software Suites,4638
+1065,Q1,Peripherals,Components,1113
+1066,Q4,Desktops,Software Suites,1575
+1067,Q2,Peripherals,Components,4243
+1068,Q4,Peripherals,Software Suites,4869
+1069,Q4,Peripherals,Accessories,3806
+1070,Q4,Software,Components,2946
+1071,Q4,Software,Components,3423
+1072,Q4,Software,Software Suites,2035
+1073,Q1,Desktops,Software Suites,1391
+1074,Q4,Laptops,Accessories,2277
+1075,Q2,Laptops,Components,4987
+1076,Q3,Desktops,Software Suites,2324
+1077,Q4,Software,Software Suites,2142
+1078,Q4,Software,Accessories,4578
+1079,Q3,Desktops,Components,2517
+1080,Q3,Laptops,Software Suites,1447
+1081,Q3,Software,Accessories,2072
+1082,Q3,Peripherals,Software Suites,3238
+1083,Q1,Desktops,Accessories,2738
+1084,Q1,Software,Software Suites,1486
+1085,Q3,Peripherals,Accessories,4240
+1086,Q2,Software,Accessories,3329
+1087,Q3,Desktops,Accessories,1397
+1088,Q2,Peripherals,Accessories,4534
+1089,Q1,Software,Software Suites,4077
+1090,Q3,Desktops,Accessories,4734
+1091,Q4,Software,Software Suites,2923
+1092,Q4,Laptops,Software Suites,3597
+1093,Q2,Software,Software Suites,2350
+1094,Q4,Laptops,Software Suites,3193
+1095,Q3,Software,Software Suites,2107
+1096,Q2,Desktops,Accessories,2881
+1097,Q4,Laptops,Accessories,1352
+1098,Q3,Peripherals,Components,4241
+1099,Q4,Laptops,Software Suites,3687
+1100,Q4,Peripherals,Accessories,4812
+1101,Q4,Software,Components,2828
+1102,Q3,Desktops,Software Suites,4238
+1103,Q2,Software,Components,1190
+1104,Q3,Desktops,Accessories,2023
+1105,Q3,Laptops,Software Suites,4023
+1106,Q4,Software,Accessories,3521
+1107,Q4,Laptops,Accessories,4987
+1108,Q1,Software,Accessories,4550
+1109,Q3,Desktops,Software Suites,4985
+1110,Q2,Desktops,Components,4288
+1111,Q4,Desktops,Software Suites,4399
+1112,Q1,Peripherals,Accessories,1704
+1113,Q2,Peripherals,Software Suites,3964
+1114,Q1,Software,Software Suites,2310
+1115,Q2,Software,Software Suites,2915
+1116,Q2,Desktops,Accessories,1371
+1117,Q1,Software,Software Suites,4836
+1118,Q3,Laptops,Accessories,1159
+1119,Q3,Peripherals,Accessories,1541
+1120,Q3,Laptops,Software Suites,1670
+1121,Q3,Desktops,Components,2482
+1122,Q2,Laptops,Components,1157
+1123,Q1,Peripherals,Accessories,2040
+1124,Q1,Peripherals,Software Suites,2472
+1125,Q4,Peripherals,Accessories,3520
+1126,Q4,Laptops,Software Suites,2681
+1127,Q1,Desktops,Software Suites,1991
+1128,Q4,Laptops,Accessories,3800
+1129,Q2,Desktops,Accessories,1217
+1130,Q3,Laptops,Software Suites,1191
+1131,Q2,Desktops,Software Suites,4381
+1132,Q1,Peripherals,Components,2329
+1133,Q2,Laptops,Accessories,4947
+1134,Q2,Software,Software Suites,3546
+1135,Q1,Software,Components,1887
+1136,Q3,Laptops,Components,3965
+1137,Q1,Peripherals,Components,2994
+1138,Q2,Desktops,Components,2798
+1139,Q1,Software,Software Suites,4308
+1140,Q2,Laptops,Components,2924
+1141,Q2,Laptops,Software Suites,3084
+1142,Q3,Software,Accessories,1633
+1143,Q2,Laptops,Accessories,1561
+1144,Q1,Peripherals,Components,3208
+1145,Q1,Laptops,Software Suites,1993
+1146,Q1,Desktops,Software Suites,4361
+1147,Q4,Peripherals,Components,4849
+1148,Q1,Laptops,Software Suites,1183
+1149,Q3,Laptops,Accessories,4434
+1150,Q2,Desktops,Software Suites,2814
+1151,Q4,Software,Software Suites,1828
+1152,Q1,Laptops,Accessories,4456
+1153,Q4,Laptops,Software Suites,2807
+1154,Q3,Software,Accessories,2003
+1155,Q1,Peripherals,Accessories,2638
+1156,Q1,Peripherals,Software Suites,1738
+1157,Q4,Software,Components,2491
+1158,Q2,Peripherals,Accessories,4443
+1159,Q3,Laptops,Accessories,4860
+1160,Q2,Software,Components,4115
+1161,Q2,Laptops,Components,4254
+1162,Q2,Laptops,Software Suites,3485
+1163,Q4,Peripherals,Accessories,3267
+1164,Q2,Desktops,Components,4959
+1165,Q1,Desktops,Components,1396
+1166,Q3,Desktops,Components,1625
+1167,Q4,Peripherals,Accessories,1666
+1168,Q1,Laptops,Components,4428
+1169,Q1,Software,Software Suites,1113
+1170,Q1,Peripherals,Accessories,4553
+1171,Q4,Desktops,Accessories,4446
+1172,Q1,Software,Components,2958
+1173,Q1,Peripherals,Software Suites,2622
+1174,Q2,Desktops,Accessories,1349
+1175,Q2,Laptops,Software Suites,2560
+1176,Q1,Software,Software Suites,3638
+1177,Q1,Desktops,Components,3778
+1178,Q2,Desktops,Accessories,2011
+1179,Q4,Software,Accessories,3556
+1180,Q4,Laptops,Accessories,2673
+1181,Q2,Peripherals,Components,4949
+1182,Q1,Laptops,Software Suites,4249
+1183,Q4,Software,Components,3587
+1184,Q2,Desktops,Components,3540
+1185,Q1,Laptops,Accessories,2001
+1186,Q4,Software,Software Suites,3874
+1187,Q4,Laptops,Software Suites,1108
+1188,Q2,Laptops,Accessories,4107
+1189,Q1,Desktops,Components,3765
+1190,Q1,Peripherals,Components,2399
+1191,Q2,Desktops,Software Suites,3364
+1192,Q4,Desktops,Software Suites,2153
+1193,Q2,Desktops,Components,3038
+1194,Q4,Laptops,Software Suites,1687
+1195,Q3,Peripherals,Components,4929
+1196,Q2,Software,Components,1120
+1197,Q1,Software,Software Suites,2277
+1198,Q1,Laptops,Components,4278
+1199,Q4,Desktops,Accessories,1391
+1200,Q1,Desktops,Components,4596
+1201,Q4,Software,Components,1065
+1202,Q4,Desktops,Accessories,4313
+1203,Q4,Software,Accessories,1496
+1204,Q2,Software,Accessories,1399
+1205,Q2,Laptops,Software Suites,1475
+1206,Q4,Laptops,Components,4173
+1207,Q4,Laptops,Software Suites,4445
+1208,Q3,Laptops,Software Suites,1994
+1209,Q3,Software,Software Suites,1462
+1210,Q2,Laptops,Accessories,4546
+1211,Q4,Laptops,Software Suites,2542
+1212,Q1,Laptops,Software Suites,3156
+1213,Q1,Peripherals,Software Suites,3886
+1214,Q3,Laptops,Accessories,1147
+1215,Q1,Software,Accessories,2371
+1216,Q1,Desktops,Software Suites,2996
+1217,Q3,Peripherals,Software Suites,2560
+1218,Q3,Desktops,Software Suites,2174
+1219,Q4,Laptops,Components,1378
+1220,Q1,Peripherals,Accessories,1852
+1221,Q4,Desktops,Software Suites,4586
+1222,Q3,Laptops,Accessories,4897
+1223,Q1,Laptops,Components,4463
+1224,Q3,Desktops,Accessories,3382
+1225,Q1,Software,Accessories,2207
+1226,Q3,Laptops,Software Suites,1495
+1227,Q2,Desktops,Software Suites,1109
+1228,Q4,Peripherals,Software Suites,1614
+1229,Q2,Desktops,Accessories,1513
+1230,Q1,Desktops,Components,3353
+1231,Q4,Laptops,Software Suites,4691
+1232,Q3,Peripherals,Components,4872
+1233,Q3,Desktops,Accessories,4602
+1234,Q2,Peripherals,Accessories,2867
+1235,Q4,Peripherals,Components,1009
+1236,Q1,Laptops,Software Suites,4056
+1237,Q2,Laptops,Accessories,3429
+1238,Q3,Desktops,Software Suites,2815
+1239,Q1,Laptops,Software Suites,2251
+1240,Q1,Software,Components,4868
+1241,Q4,Laptops,Accessories,4224
+1242,Q3,Laptops,Software Suites,2357
+1243,Q4,Peripherals,Accessories,2188
+1244,Q1,Peripherals,Components,2505
+1245,Q2,Desktops,Software Suites,1989
+1246,Q1,Peripherals,Software Suites,1895
+1247,Q4,Peripherals,Components,3771
+1248,Q1,Software,Accessories,2467
+1249,Q4,Peripherals,Accessories,2439
+1250,Q4,Peripherals,Components,3900
+1251,Q3,Laptops,Software Suites,1565
+1252,Q3,Peripherals,Components,2153
+1253,Q1,Peripherals,Accessories,1656
+1254,Q2,Laptops,Components,1766
+1255,Q3,Software,Accessories,1463
+1256,Q3,Software,Software Suites,3127
+1257,Q4,Software,Accessories,3241
+1258,Q1,Desktops,Components,2334
+1259,Q1,Software,Software Suites,3068
+1260,Q2,Desktops,Components,1332
+1261,Q3,Laptops,Accessories,3585
+1262,Q4,Desktops,Components,3873
+1263,Q1,Laptops,Software Suites,1687
+1264,Q3,Software,Software Suites,3415
+1265,Q4,Software,Software Suites,3361
+1266,Q4,Laptops,Software Suites,3581
+1267,Q1,Laptops,Accessories,4750
+1268,Q2,Laptops,Software Suites,2579
+1269,Q3,Laptops,Accessories,2892
+1270,Q2,Desktops,Accessories,3961
+1271,Q3,Laptops,Accessories,3718
+1272,Q3,Laptops,Software Suites,1366
+1273,Q4,Software,Software Suites,4998
+1274,Q2,Laptops,Accessories,2071
+1275,Q1,Laptops,Accessories,2736
+1276,Q2,Desktops,Accessories,2759
+1277,Q3,Software,Components,4097
+1278,Q4,Desktops,Software Suites,1661
+1279,Q2,Peripherals,Accessories,3408
+1280,Q2,Laptops,Software Suites,3869
+1281,Q3,Peripherals,Accessories,3866
+1282,Q3,Laptops,Software Suites,4254
+1283,Q2,Laptops,Accessories,4691
+1284,Q4,Laptops,Components,1517
+1285,Q3,Desktops,Software Suites,3810
+1286,Q4,Software,Software Suites,3427
+1287,Q3,Software,Accessories,1256
+1288,Q4,Software,Components,4235
+1289,Q2,Laptops,Components,1736
+1290,Q2,Laptops,Components,1386
+1291,Q1,Peripherals,Software Suites,4771
+1292,Q3,Peripherals,Accessories,2102
+1293,Q1,Laptops,Components,4958
+1294,Q3,Laptops,Accessories,4639
+1295,Q1,Desktops,Accessories,3760
+1296,Q3,Desktops,Components,1653
+1297,Q1,Peripherals,Components,4642
+1298,Q1,Software,Accessories,3262
+1299,Q1,Peripherals,Accessories,2737
+1300,Q4,Peripherals,Accessories,3179
+1301,Q3,Peripherals,Software Suites,2984
+1302,Q2,Software,Software Suites,4639
+1303,Q1,Peripherals,Software Suites,4578
+1304,Q1,Laptops,Software Suites,4146
+1305,Q2,Laptops,Software Suites,3975
+1306,Q3,Desktops,Software Suites,4089
+1307,Q1,Software,Accessories,3915
+1308,Q1,Laptops,Accessories,3035
+1309,Q3,Software,Software Suites,4280
+1310,Q4,Laptops,Software Suites,4934
+1311,Q1,Peripherals,Software Suites,2639
+1312,Q4,Software,Accessories,1652
+1313,Q1,Software,Software Suites,1245
+1314,Q1,Laptops,Components,4846
+1315,Q2,Desktops,Accessories,4316
+1316,Q3,Laptops,Components,4185
+1317,Q2,Laptops,Software Suites,1177
+1318,Q1,Laptops,Components,2230
+1319,Q1,Software,Accessories,3915
+1320,Q1,Software,Software Suites,4171
+1321,Q4,Software,Accessories,1154
+1322,Q4,Laptops,Components,4013
+1323,Q3,Software,Software Suites,3704
+1324,Q1,Software,Software Suites,1039
+1325,Q3,Software,Software Suites,4075
+1326,Q4,Software,Components,1385
+1327,Q2,Software,Accessories,3417
+1328,Q1,Software,Components,3174
+1329,Q1,Desktops,Components,2095
+1330,Q3,Peripherals,Accessories,2858
+1331,Q4,Desktops,Software Suites,3275
+1332,Q4,Desktops,Accessories,1219
+1333,Q3,Desktops,Software Suites,2728
+1334,Q1,Peripherals,Components,3560
+1335,Q4,Peripherals,Components,4098
+1336,Q3,Peripherals,Components,3210
+1337,Q3,Desktops,Software Suites,3809
+1338,Q3,Peripherals,Accessories,4148
+1339,Q3,Peripherals,Accessories,1663
+1340,Q3,Peripherals,Software Suites,1208
+1341,Q4,Software,Components,3840
+1342,Q4,Peripherals,Accessories,3548
+1343,Q3,Laptops,Components,2214
+1344,Q1,Desktops,Accessories,2472
+1345,Q1,Peripherals,Software Suites,2920
+1346,Q3,Peripherals,Components,1676
+1347,Q3,Desktops,Components,2839
+1348,Q3,Desktops,Software Suites,4860
+1349,Q1,Desktops,Accessories,4552
+1350,Q2,Software,Software Suites,2292
+1351,Q2,Software,Accessories,3553
+1352,Q4,Software,Accessories,4591
+1353,Q1,Laptops,Components,1026
+1354,Q4,Laptops,Components,1688
+1355,Q1,Peripherals,Components,3765
+1356,Q4,Desktops,Accessories,4750
+1357,Q2,Laptops,Software Suites,3812
+1358,Q1,Software,Components,2301
+1359,Q1,Laptops,Accessories,2433
+1360,Q3,Software,Accessories,2263
+1361,Q1,Desktops,Accessories,1497
+1362,Q4,Peripherals,Accessories,2130
+1363,Q2,Peripherals,Components,2039
+1364,Q3,Laptops,Software Suites,2731
+1365,Q4,Laptops,Components,1821
+1366,Q4,Software,Accessories,2667
+1367,Q4,Laptops,Components,3867
+1368,Q4,Peripherals,Components,3347
+1369,Q2,Peripherals,Software Suites,4926
+1370,Q3,Software,Components,2247
+1371,Q4,Software,Software Suites,3447
+1372,Q2,Software,Software Suites,3683
+1373,Q2,Desktops,Components,1778
+1374,Q3,Software,Software Suites,3013
+1375,Q2,Peripherals,Software Suites,2999
+1376,Q2,Laptops,Software Suites,3018
+1377,Q2,Desktops,Accessories,3095
+1378,Q3,Software,Software Suites,2487
+1379,Q4,Software,Software Suites,1636
+1380,Q1,Peripherals,Components,3458
+1381,Q1,Software,Accessories,1941
+1382,Q3,Laptops,Components,3062
+1383,Q1,Software,Accessories,1739
+1384,Q2,Software,Accessories,1220
+1385,Q3,Software,Components,2489
+1386,Q3,Laptops,Software Suites,3475
+1387,Q3,Software,Software Suites,4158
+1388,Q4,Peripherals,Accessories,4828
+1389,Q1,Software,Software Suites,2187
+1390,Q3,Laptops,Components,3209
+1391,Q4,Laptops,Accessories,4378
+1392,Q1,Desktops,Accessories,4349
+1393,Q1,Desktops,Components,2845
+1394,Q1,Desktops,Software Suites,2721
+1395,Q2,Peripherals,Components,4993
+1396,Q1,Laptops,Components,4600
+1397,Q2,Desktops,Accessories,1820
+1398,Q3,Laptops,Components,1214
+1399,Q1,Laptops,Components,3415
+1400,Q3,Peripherals,Accessories,3091
+1401,Q2,Desktops,Accessories,4964
+1402,Q3,Peripherals,Software Suites,3623
+1403,Q1,Peripherals,Software Suites,4213
+1404,Q3,Software,Accessories,3266
+1405,Q1,Peripherals,Software Suites,1942
+1406,Q3,Software,Accessories,3532
+1407,Q3,Laptops,Software Suites,4629
+1408,Q3,Software,Accessories,1595
+1409,Q3,Desktops,Components,3247
+1410,Q1,Software,Accessories,2619
+1411,Q4,Software,Components,1211
+1412,Q3,Software,Accessories,4917
+1413,Q1,Peripherals,Accessories,2699
+1414,Q4,Desktops,Components,2362
+1415,Q3,Peripherals,Accessories,4012
+1416,Q2,Peripherals,Accessories,4285
+1417,Q1,Desktops,Software Suites,1216
+1418,Q4,Software,Software Suites,1666
+1419,Q3,Laptops,Accessories,3435
+1420,Q3,Desktops,Software Suites,4804
+1421,Q3,Software,Software Suites,2132
+1422,Q1,Laptops,Accessories,3210
+1423,Q3,Desktops,Accessories,2227
+1424,Q1,Desktops,Components,4361
+1425,Q2,Software,Software Suites,3704
+1426,Q3,Desktops,Components,1520
+1427,Q3,Software,Components,2201
+1428,Q3,Peripherals,Components,4761
+1429,Q4,Software,Accessories,3364
+1430,Q4,Desktops,Components,1770
+1431,Q2,Laptops,Software Suites,2370
+1432,Q4,Desktops,Accessories,1951
+1433,Q3,Desktops,Components,4995
+1434,Q1,Software,Software Suites,2913
+1435,Q4,Desktops,Software Suites,1443
+1436,Q1,Desktops,Accessories,3511
+1437,Q3,Desktops,Accessories,3083
+1438,Q1,Laptops,Software Suites,3675
+1439,Q2,Laptops,Accessories,1297
+1440,Q2,Laptops,Software Suites,1243
+1441,Q3,Desktops,Components,2745
+1442,Q3,Software,Software Suites,3201
+1443,Q1,Software,Accessories,3721
+1444,Q2,Software,Components,4748
+1445,Q1,Laptops,Components,3079
+1446,Q3,Software,Software Suites,4747
+1447,Q4,Desktops,Accessories,3447
+1448,Q1,Peripherals,Software Suites,2495
+1449,Q1,Software,Accessories,4191
+1450,Q4,Software,Software Suites,3731
+1451,Q1,Laptops,Accessories,4442
+1452,Q4,Software,Accessories,1727
+1453,Q1,Peripherals,Software Suites,3598
+1454,Q1,Laptops,Components,1179
+1455,Q1,Software,Accessories,2239
+1456,Q4,Software,Software Suites,4923
+1457,Q1,Laptops,Components,3173
+1458,Q2,Desktops,Components,2346
+1459,Q3,Software,Components,4018
+1460,Q1,Peripherals,Software Suites,3502
+1461,Q4,Peripherals,Components,3401
+1462,Q1,Laptops,Software Suites,2852
+1463,Q1,Laptops,Components,1019
+1464,Q3,Peripherals,Components,2830
+1465,Q2,Software,Accessories,1015
+1466,Q3,Software,Accessories,2795
+1467,Q2,Software,Accessories,2221
+1468,Q4,Software,Software Suites,2395
+1469,Q2,Peripherals,Software Suites,2287
+1470,Q4,Software,Accessories,3457
+1471,Q1,Laptops,Accessories,4757
+1472,Q2,Peripherals,Accessories,4126
+1473,Q3,Software,Components,3963
+1474,Q2,Software,Components,2350
+1475,Q4,Desktops,Software Suites,1773
+1476,Q3,Laptops,Software Suites,2042
+1477,Q4,Laptops,Software Suites,3839
+1478,Q4,Desktops,Software Suites,4272
+1479,Q2,Desktops,Software Suites,3662
+1480,Q1,Software,Software Suites,1866
+1481,Q4,Laptops,Software Suites,4417
+1482,Q2,Desktops,Components,4514
+1483,Q3,Laptops,Software Suites,2901
+1484,Q1,Desktops,Software Suites,3313
+1485,Q3,Laptops,Software Suites,4175
+1486,Q4,Software,Accessories,1302
+1487,Q3,Laptops,Software Suites,4798
+1488,Q4,Desktops,Accessories,3254
+1489,Q3,Desktops,Accessories,4141
+1490,Q4,Desktops,Components,4599
+1491,Q2,Software,Accessories,4018
+1492,Q2,Software,Software Suites,4712
+1493,Q2,Desktops,Software Suites,1906
+1494,Q2,Desktops,Components,3096
+1495,Q2,Peripherals,Components,2728
+1496,Q1,Desktops,Software Suites,3752
+1497,Q2,Peripherals,Software Suites,1538
+1498,Q4,Peripherals,Software Suites,2628
+1499,Q1,Desktops,Accessories,4286
+1500,Q1,Desktops,Software Suites,4863
+1501,Q1,Software,Components,1767
+1502,Q2,Peripherals,Software Suites,2192
+1503,Q3,Laptops,Components,1015
+1504,Q4,Peripherals,Accessories,3983
+1505,Q2,Peripherals,Software Suites,4071
+1506,Q3,Software,Software Suites,3251
+1507,Q2,Laptops,Software Suites,3153
+1508,Q4,Laptops,Software Suites,4612
+1509,Q3,Software,Components,3462
+1510,Q4,Desktops,Accessories,4025
+1511,Q3,Software,Software Suites,4141
+1512,Q4,Laptops,Components,1994
+1513,Q3,Peripherals,Components,1978
+1514,Q4,Laptops,Accessories,1410
+1515,Q4,Software,Components,2536
+1516,Q1,Laptops,Accessories,4776
+1517,Q3,Software,Components,1625
+1518,Q1,Desktops,Components,2926
+1519,Q1,Desktops,Software Suites,4368
+1520,Q3,Desktops,Software Suites,4851
+1521,Q1,Desktops,Accessories,4599
+1522,Q1,Peripherals,Software Suites,2547
+1523,Q2,Desktops,Components,4108
+1524,Q1,Peripherals,Software Suites,4538
+1525,Q2,Software,Components,2646
+1526,Q1,Desktops,Accessories,4460
+1527,Q1,Laptops,Software Suites,4547
+1528,Q1,Peripherals,Software Suites,1099
+1529,Q3,Software,Accessories,4188
+1530,Q1,Peripherals,Accessories,3821
+1531,Q4,Peripherals,Components,1066
+1532,Q2,Desktops,Components,3629
+1533,Q2,Software,Accessories,3849
+1534,Q4,Peripherals,Components,1014
+1535,Q2,Laptops,Software Suites,4263
+1536,Q4,Peripherals,Accessories,4825
+1537,Q4,Desktops,Software Suites,1436
+1538,Q1,Peripherals,Software Suites,1332
+1539,Q1,Laptops,Accessories,1244
+1540,Q3,Laptops,Components,2928
+1541,Q4,Desktops,Accessories,3150
+1542,Q2,Peripherals,Software Suites,2037
+1543,Q1,Desktops,Components,1397
+1544,Q4,Desktops,Components,4975
+1545,Q4,Software,Components,4751
+1546,Q4,Software,Accessories,1238
+1547,Q1,Desktops,Software Suites,1712
+1548,Q3,Peripherals,Components,3231
+1549,Q1,Desktops,Components,3095
+1550,Q4,Desktops,Software Suites,4394
+1551,Q4,Desktops,Software Suites,2558
+1552,Q1,Peripherals,Software Suites,3861
+1553,Q4,Peripherals,Components,4865
+1554,Q3,Peripherals,Software Suites,2442
+1555,Q3,Desktops,Software Suites,4722
+1556,Q2,Laptops,Components,3622
+1557,Q3,Software,Accessories,3334
+1558,Q2,Desktops,Components,4234
+1559,Q1,Laptops,Software Suites,2252
+1560,Q4,Desktops,Accessories,2688
+1561,Q4,Software,Software Suites,4344
+1562,Q3,Laptops,Accessories,4947
+1563,Q4,Software,Software Suites,2568
+1564,Q3,Desktops,Software Suites,2087
+1565,Q3,Software,Components,4389
+1566,Q4,Desktops,Software Suites,3357
+1567,Q2,Peripherals,Components,3068
+1568,Q4,Peripherals,Accessories,1885
+1569,Q4,Software,Components,1387
+1570,Q3,Software,Components,1011
+1571,Q1,Software,Components,1606
+1572,Q3,Software,Accessories,2181
+1573,Q4,Laptops,Software Suites,1785
+1574,Q1,Laptops,Components,1244
+1575,Q4,Laptops,Accessories,3811
+1576,Q3,Peripherals,Software Suites,1012
+1577,Q1,Desktops,Accessories,4766
+1578,Q3,Peripherals,Accessories,1420
+1579,Q1,Desktops,Software Suites,2467
+1580,Q3,Desktops,Accessories,4899
+1581,Q2,Software,Software Suites,1159
+1582,Q2,Software,Software Suites,1450
+1583,Q3,Desktops,Software Suites,1179
+1584,Q1,Desktops,Software Suites,2691
+1585,Q4,Peripherals,Components,2458
+1586,Q3,Software,Accessories,3482
+1587,Q2,Laptops,Components,1777
+1588,Q3,Peripherals,Components,2589
+1589,Q4,Desktops,Accessories,4383
+1590,Q3,Software,Accessories,3820
+1591,Q2,Peripherals,Software Suites,3893
+1592,Q4,Software,Accessories,1361
+1593,Q4,Software,Components,4071
+1594,Q4,Laptops,Accessories,1034
+1595,Q4,Peripherals,Components,3798
+1596,Q1,Laptops,Components,3729
+1597,Q3,Desktops,Software Suites,4294
+1598,Q1,Desktops,Components,4702
+1599,Q1,Laptops,Software Suites,1504
+1600,Q4,Desktops,Accessories,1777
+1601,Q4,Desktops,Accessories,3365
+1602,Q3,Peripherals,Components,4712
+1603,Q4,Peripherals,Accessories,1896
+1604,Q1,Software,Components,2963
+1605,Q2,Desktops,Software Suites,2008
+1606,Q4,Desktops,Accessories,1460
+1607,Q4,Software,Accessories,3306
+1608,Q1,Peripherals,Components,3324
+1609,Q4,Software,Accessories,4024
+1610,Q2,Software,Accessories,4261
+1611,Q1,Desktops,Accessories,3631
+1612,Q3,Peripherals,Software Suites,4421
+1613,Q4,Desktops,Components,4962
+1614,Q3,Desktops,Components,4445
+1615,Q3,Laptops,Software Suites,1166
+1616,Q2,Software,Accessories,1196
+1617,Q3,Software,Components,4484
+1618,Q2,Peripherals,Components,1584
+1619,Q1,Software,Accessories,2523
+1620,Q2,Software,Accessories,3608
+1621,Q4,Laptops,Accessories,3510
+1622,Q2,Laptops,Accessories,4446
+1623,Q4,Desktops,Components,3520
+1624,Q2,Laptops,Software Suites,1704
+1625,Q3,Peripherals,Accessories,2759
+1626,Q1,Software,Components,1929
+1627,Q1,Desktops,Accessories,1371
+1628,Q3,Laptops,Accessories,4640
+1629,Q1,Desktops,Software Suites,1683
+1630,Q2,Laptops,Accessories,4553
+1631,Q3,Laptops,Components,3606
+1632,Q1,Laptops,Components,4776
+1633,Q4,Software,Accessories,2655
+1634,Q1,Desktops,Accessories,3499
+1635,Q1,Peripherals,Accessories,1970
+1636,Q1,Laptops,Accessories,3842
+1637,Q4,Laptops,Components,4977
+1638,Q3,Software,Software Suites,1627
+1639,Q1,Peripherals,Components,2694
+1640,Q4,Desktops,Accessories,3368
+1641,Q2,Desktops,Accessories,2965
+1642,Q3,Software,Components,1350
+1643,Q2,Laptops,Software Suites,4351
+1644,Q2,Laptops,Software Suites,3719
+1645,Q2,Peripherals,Accessories,3294
+1646,Q4,Software,Accessories,2250
+1647,Q4,Laptops,Accessories,4871
+1648,Q4,Peripherals,Software Suites,2560
+1649,Q4,Laptops,Components,2854
+1650,Q4,Laptops,Software Suites,3118
+1651,Q4,Software,Accessories,3337
+1652,Q2,Laptops,Software Suites,1645
+1653,Q4,Desktops,Accessories,3469
+1654,Q1,Laptops,Software Suites,1298
+1655,Q1,Desktops,Accessories,4030
+1656,Q2,Software,Software Suites,1823
+1657,Q3,Laptops,Components,3017
+1658,Q2,Software,Accessories,2226
+1659,Q2,Laptops,Accessories,4048
+1660,Q2,Software,Software Suites,1612
+1661,Q4,Software,Software Suites,2785
+1662,Q2,Peripherals,Software Suites,1526
+1663,Q2,Peripherals,Accessories,2525
+1664,Q1,Desktops,Accessories,4177
+1665,Q3,Laptops,Accessories,1950
+1666,Q2,Desktops,Software Suites,4819
+1667,Q4,Software,Software Suites,3809
+1668,Q4,Software,Accessories,3575
+1669,Q4,Peripherals,Components,4055
+1670,Q1,Software,Components,2484
+1671,Q4,Laptops,Software Suites,3225
+1672,Q1,Laptops,Software Suites,4192
+1673,Q1,Laptops,Components,2778
+1674,Q4,Peripherals,Software Suites,2879
+1675,Q4,Laptops,Software Suites,1354
+1676,Q4,Desktops,Software Suites,1549
+1677,Q3,Desktops,Components,1336
+1678,Q1,Desktops,Accessories,2068
+1679,Q1,Laptops,Components,1058
+1680,Q1,Software,Accessories,2937
+1681,Q3,Laptops,Software Suites,4272
+1682,Q2,Desktops,Accessories,3970
+1683,Q2,Peripherals,Components,3430
+1684,Q1,Laptops,Software Suites,1485
+1685,Q1,Software,Accessories,1766
+1686,Q3,Software,Accessories,4574
+1687,Q2,Laptops,Software Suites,2900
+1688,Q1,Desktops,Components,3122
+1689,Q4,Peripherals,Components,1028
+1690,Q4,Software,Accessories,1426
+1691,Q3,Desktops,Components,1350
+1692,Q3,Laptops,Software Suites,4467
+1693,Q4,Peripherals,Components,1128
+1694,Q3,Desktops,Accessories,2647
+1695,Q2,Desktops,Components,1779
+1696,Q2,Software,Components,4362
+1697,Q2,Laptops,Accessories,3525
+1698,Q2,Peripherals,Accessories,4003
+1699,Q2,Laptops,Software Suites,3146
+1700,Q2,Laptops,Components,1923
+1701,Q4,Desktops,Accessories,2188
+1702,Q1,Software,Software Suites,1684
+1703,Q2,Laptops,Software Suites,2740
+1704,Q2,Laptops,Software Suites,2768
+1705,Q4,Laptops,Accessories,1693
+1706,Q3,Peripherals,Software Suites,3967
+1707,Q1,Peripherals,Accessories,2160
+1708,Q2,Laptops,Accessories,3466
+1709,Q4,Software,Components,1066
+1710,Q3,Desktops,Software Suites,4992
+1711,Q4,Desktops,Components,1353
+1712,Q3,Laptops,Software Suites,1009
+1713,Q3,Peripherals,Components,4699
+1714,Q1,Peripherals,Components,4066
+1715,Q1,Peripherals,Components,2188
+1716,Q3,Laptops,Software Suites,4889
+1717,Q1,Laptops,Components,4027
+1718,Q3,Desktops,Accessories,1502
+1719,Q1,Software,Accessories,3320
+1720,Q3,Desktops,Software Suites,3027
+1721,Q2,Peripherals,Components,3228
+1722,Q1,Peripherals,Components,1889
+1723,Q3,Desktops,Accessories,2257
+1724,Q4,Software,Software Suites,1136
+1725,Q1,Laptops,Accessories,2612
+1726,Q4,Laptops,Accessories,2464
+1727,Q4,Desktops,Accessories,1001
+1728,Q3,Laptops,Software Suites,2318
+1729,Q1,Desktops,Components,4762
+1730,Q3,Software,Software Suites,4983
+1731,Q2,Peripherals,Components,2302
+1732,Q1,Software,Components,1197
+1733,Q4,Laptops,Components,4164
+1734,Q3,Software,Components,2953
+1735,Q4,Software,Components,2586
+1736,Q4,Laptops,Software Suites,1594
+1737,Q4,Peripherals,Software Suites,2641
+1738,Q3,Desktops,Accessories,2968
+1739,Q3,Peripherals,Components,1111
+1740,Q4,Peripherals,Components,2847
+1741,Q4,Peripherals,Software Suites,3871
+1742,Q2,Peripherals,Accessories,3339
+1743,Q4,Peripherals,Accessories,2522
+1744,Q4,Laptops,Accessories,4653
+1745,Q1,Software,Components,2640
+1746,Q3,Laptops,Components,4058
+1747,Q1,Peripherals,Accessories,4425
+1748,Q1,Desktops,Components,2264
+1749,Q2,Software,Software Suites,2251
+1750,Q4,Peripherals,Components,4134
+1751,Q4,Desktops,Components,2344
+1752,Q2,Software,Components,4695
+1753,Q1,Laptops,Accessories,4833
+1754,Q2,Peripherals,Accessories,2460
+1755,Q1,Desktops,Components,1531
+1756,Q2,Laptops,Components,3947
+1757,Q3,Desktops,Accessories,4254
+1758,Q4,Laptops,Accessories,3047
+1759,Q2,Software,Software Suites,4527
+1760,Q1,Laptops,Accessories,3650
+1761,Q1,Laptops,Components,3754
+1762,Q4,Peripherals,Accessories,3728
+1763,Q3,Desktops,Software Suites,1115
+1764,Q1,Desktops,Components,2347
+1765,Q1,Desktops,Components,2502
+1766,Q1,Peripherals,Components,1245
+1767,Q2,Peripherals,Components,3128
+1768,Q3,Software,Software Suites,4733
+1769,Q3,Peripherals,Accessories,1177
+1770,Q2,Software,Software Suites,4454
+1771,Q3,Desktops,Accessories,3692
+1772,Q4,Software,Software Suites,1763
+1773,Q3,Desktops,Software Suites,4776
+1774,Q3,Software,Software Suites,1480
+1775,Q2,Software,Accessories,2406
+1776,Q4,Peripherals,Software Suites,1584
+1777,Q4,Laptops,Software Suites,1601
+1778,Q4,Software,Components,2917
+1779,Q4,Peripherals,Components,1780
+1780,Q4,Desktops,Software Suites,3494
+1781,Q4,Laptops,Accessories,4736
+1782,Q1,Software,Components,1848
+1783,Q3,Software,Software Suites,1575
+1784,Q4,Peripherals,Software Suites,3275
+1785,Q1,Peripherals,Accessories,3005
+1786,Q3,Peripherals,Components,2625
+1787,Q3,Software,Components,2792
+1788,Q4,Peripherals,Accessories,2242
+1789,Q1,Peripherals,Components,4681
+1790,Q4,Laptops,Accessories,3267
+1791,Q4,Desktops,Components,4033
+1792,Q1,Desktops,Software Suites,1014
+1793,Q2,Laptops,Accessories,2136
+1794,Q1,Laptops,Components,4090
+1795,Q4,Software,Components,1058
+1796,Q4,Peripherals,Accessories,3208
+1797,Q4,Laptops,Accessories,4616
+1798,Q3,Desktops,Components,1458
+1799,Q3,Desktops,Accessories,4447
+1800,Q1,Desktops,Components,1831
+1801,Q4,Software,Software Suites,3826
+1802,Q4,Desktops,Software Suites,3296
+1803,Q1,Software,Accessories,3001
+1804,Q3,Peripherals,Components,4847
+1805,Q3,Desktops,Software Suites,1419
+1806,Q3,Peripherals,Components,1053
+1807,Q1,Laptops,Software Suites,4995
+1808,Q2,Desktops,Accessories,3030
+1809,Q2,Software,Components,1286
+1810,Q2,Laptops,Accessories,3832
+1811,Q1,Desktops,Accessories,3578
+1812,Q2,Desktops,Software Suites,2247
+1813,Q3,Software,Software Suites,1138
+1814,Q2,Desktops,Components,2195
+1815,Q4,Laptops,Accessories,2993
+1816,Q3,Laptops,Accessories,1810
+1817,Q3,Software,Accessories,2752
+1818,Q4,Software,Software Suites,3441
+1819,Q3,Peripherals,Components,3778
+1820,Q3,Laptops,Components,1417
+1821,Q3,Laptops,Accessories,1391
+1822,Q3,Laptops,Software Suites,1271
+1823,Q3,Peripherals,Components,2514
+1824,Q3,Laptops,Accessories,3739
+1825,Q4,Desktops,Accessories,3250
+1826,Q3,Software,Software Suites,4652
+1827,Q4,Laptops,Software Suites,1690
+1828,Q2,Laptops,Software Suites,2411
+1829,Q1,Software,Components,3128
+1830,Q3,Software,Components,4236
+1831,Q3,Peripherals,Components,3806
+1832,Q3,Peripherals,Accessories,3978
+1833,Q3,Software,Components,2463
+1834,Q1,Peripherals,Software Suites,2664
+1835,Q4,Software,Software Suites,2980
+1836,Q4,Software,Software Suites,3321
+1837,Q4,Desktops,Components,4337
+1838,Q4,Software,Software Suites,1122
+1839,Q1,Peripherals,Accessories,4840
+1840,Q2,Software,Accessories,4694
+1841,Q4,Peripherals,Accessories,4679
+1842,Q2,Laptops,Software Suites,4663
+1843,Q3,Laptops,Accessories,2579
+1844,Q4,Peripherals,Components,3563
+1845,Q1,Desktops,Accessories,2946
+1846,Q4,Peripherals,Accessories,2814
+1847,Q2,Software,Software Suites,3190
+1848,Q2,Laptops,Components,3917
+1849,Q1,Desktops,Software Suites,3169
+1850,Q2,Software,Components,4214
+1851,Q1,Desktops,Components,1669
+1852,Q2,Desktops,Components,3299
+1853,Q3,Laptops,Accessories,4690
+1854,Q3,Laptops,Accessories,1961
+1855,Q4,Laptops,Software Suites,2584
+1856,Q2,Desktops,Software Suites,4989
+1857,Q2,Laptops,Components,4398
+1858,Q4,Desktops,Software Suites,3919
+1859,Q3,Peripherals,Components,3962
+1860,Q2,Software,Accessories,3867
+1861,Q2,Peripherals,Accessories,2926
+1862,Q3,Laptops,Accessories,1731
+1863,Q3,Laptops,Components,1416
+1864,Q1,Peripherals,Software Suites,3395
+1865,Q3,Software,Components,2202
+1866,Q3,Peripherals,Software Suites,1088
+1867,Q4,Software,Accessories,1427
+1868,Q3,Laptops,Components,4449
+1869,Q4,Peripherals,Software Suites,2329
+1870,Q2,Desktops,Accessories,3458
+1871,Q3,Peripherals,Software Suites,4465
+1872,Q4,Laptops,Software Suites,2607
+1873,Q4,Peripherals,Components,2541
+1874,Q3,Software,Components,4893
+1875,Q2,Desktops,Software Suites,3508
+1876,Q4,Peripherals,Components,2521
+1877,Q2,Desktops,Components,3669
+1878,Q4,Desktops,Accessories,1513
+1879,Q1,Desktops,Software Suites,1653
+1880,Q1,Laptops,Software Suites,4921
+1881,Q2,Peripherals,Accessories,1665
+1882,Q1,Peripherals,Software Suites,2220
+1883,Q2,Software,Software Suites,3610
+1884,Q1,Software,Components,1860
+1885,Q2,Peripherals,Accessories,2263
+1886,Q3,Desktops,Components,2637
+1887,Q1,Peripherals,Components,1757
+1888,Q4,Software,Components,4267
+1889,Q2,Laptops,Software Suites,3219
+1890,Q1,Desktops,Software Suites,4024
+1891,Q2,Peripherals,Accessories,4913
+1892,Q3,Software,Components,3791
+1893,Q1,Laptops,Components,1702
+1894,Q2,Desktops,Accessories,2481
+1895,Q1,Laptops,Components,1527
+1896,Q4,Laptops,Software Suites,3170
+1897,Q1,Peripherals,Accessories,2438
+1898,Q1,Laptops,Components,2364
+1899,Q2,Peripherals,Components,3132
+1900,Q4,Desktops,Accessories,2932
+1901,Q1,Laptops,Accessories,4516
+1902,Q4,Software,Components,2113
+1903,Q2,Software,Accessories,2323
+1904,Q3,Software,Components,4409
+1905,Q4,Software,Components,2752
+1906,Q2,Software,Software Suites,3817
+1907,Q4,Desktops,Accessories,4182
+1908,Q1,Peripherals,Software Suites,1437
+1909,Q3,Peripherals,Components,3539
+1910,Q3,Desktops,Components,4510
+1911,Q3,Peripherals,Software Suites,1454
+1912,Q3,Peripherals,Software Suites,4220
+1913,Q4,Peripherals,Accessories,1173
+1914,Q1,Desktops,Accessories,3719
+1915,Q2,Laptops,Accessories,3830
+1916,Q2,Software,Components,1762
+1917,Q3,Peripherals,Components,3439
+1918,Q4,Laptops,Accessories,2829
+1919,Q3,Peripherals,Software Suites,4756
+1920,Q3,Laptops,Accessories,2757
+1921,Q2,Desktops,Accessories,3803
+1922,Q4,Software,Accessories,1042
+1923,Q3,Desktops,Components,1508
+1924,Q4,Peripherals,Components,3951
+1925,Q4,Desktops,Components,4719
+1926,Q1,Software,Software Suites,2787
+1927,Q3,Laptops,Software Suites,4919
+1928,Q4,Desktops,Components,1928
+1929,Q2,Software,Components,1986
+1930,Q4,Laptops,Components,2886
+1931,Q4,Desktops,Components,3585
+1932,Q2,Peripherals,Accessories,4295
+1933,Q2,Desktops,Software Suites,4977
+1934,Q3,Desktops,Accessories,2198
+1935,Q2,Peripherals,Software Suites,1551
+1936,Q2,Peripherals,Accessories,4434
+1937,Q1,Laptops,Components,2559
+1938,Q1,Laptops,Accessories,3183
+1939,Q2,Peripherals,Accessories,3231
+1940,Q2,Software,Software Suites,4977
+1941,Q2,Desktops,Software Suites,3987
+1942,Q1,Peripherals,Accessories,4286
+1943,Q3,Laptops,Software Suites,4274
+1944,Q1,Software,Components,2552
+1945,Q4,Laptops,Accessories,3169
+1946,Q1,Peripherals,Components,1409
+1947,Q4,Software,Software Suites,2439
+1948,Q1,Desktops,Components,3160
+1949,Q4,Laptops,Components,3502
+1950,Q1,Peripherals,Software Suites,1640
+1951,Q4,Peripherals,Software Suites,2305
+1952,Q1,Software,Accessories,2031
+1953,Q3,Laptops,Software Suites,2543
+1954,Q1,Desktops,Components,4904
+1955,Q1,Laptops,Components,1564
+1956,Q2,Peripherals,Accessories,3057
+1957,Q3,Laptops,Software Suites,3516
+1958,Q4,Peripherals,Accessories,3304
+1959,Q1,Laptops,Software Suites,1159
+1960,Q2,Software,Software Suites,3555
+1961,Q4,Desktops,Accessories,4588
+1962,Q4,Desktops,Accessories,4902
+1963,Q1,Software,Software Suites,3123
+1964,Q3,Peripherals,Components,4952
+1965,Q3,Software,Software Suites,1196
+1966,Q2,Software,Components,2684
+1967,Q1,Desktops,Components,2522
+1968,Q3,Software,Components,4418
+1969,Q1,Peripherals,Accessories,1605
+1970,Q3,Software,Software Suites,3355
+1971,Q3,Peripherals,Components,2521
+1972,Q4,Desktops,Software Suites,3209
+1973,Q4,Peripherals,Software Suites,4890
+1974,Q2,Laptops,Accessories,4083
+1975,Q1,Laptops,Software Suites,3291
+1976,Q1,Software,Accessories,4903
+1977,Q2,Peripherals,Components,2569
+1978,Q1,Software,Accessories,4957
+1979,Q3,Desktops,Accessories,4437
+1980,Q3,Laptops,Software Suites,3069
+1981,Q3,Software,Accessories,1166
+1982,Q1,Software,Accessories,1520
+1983,Q4,Laptops,Accessories,2435
+1984,Q2,Software,Software Suites,2072
+1985,Q2,Software,Accessories,1271
+1986,Q1,Laptops,Software Suites,4963
+1987,Q1,Desktops,Software Suites,2526
+1988,Q3,Desktops,Components,2331
+1989,Q3,Software,Software Suites,4216
+1990,Q1,Desktops,Accessories,1877
+1991,Q2,Laptops,Accessories,4252
+1992,Q4,Software,Components,4714
+1993,Q1,Peripherals,Components,3755
+1994,Q3,Peripherals,Software Suites,3982
+1995,Q3,Peripherals,Components,4539
+1996,Q1,Desktops,Components,1086
+1997,Q4,Laptops,Components,3215
+1998,Q2,Software,Software Suites,3375
+1999,Q2,Peripherals,Components,2226
+2000,Q4,Laptops,Software Suites,4658
+2001,Q4,Software,Components,2755
+2002,Q4,Peripherals,Software Suites,4630
+2003,Q1,Software,Accessories,3815
+2004,Q3,Desktops,Components,1772
+2005,Q3,Desktops,Accessories,4152
+2006,Q4,Laptops,Components,1352
+2007,Q4,Laptops,Accessories,2680
+2008,Q2,Laptops,Accessories,1464
+2009,Q1,Peripherals,Accessories,1568
+2010,Q1,Software,Components,3097
+2011,Q4,Peripherals,Components,2663
+2012,Q1,Desktops,Software Suites,3766
+2013,Q2,Peripherals,Components,2376
+2014,Q2,Laptops,Accessories,4564
+2015,Q2,Software,Components,3425
+2016,Q3,Peripherals,Software Suites,3857
+2017,Q1,Peripherals,Software Suites,1871
+2018,Q2,Desktops,Components,4536
+2019,Q3,Laptops,Software Suites,4916
+2020,Q2,Desktops,Accessories,2147
+2021,Q4,Peripherals,Accessories,3773
+2022,Q2,Software,Accessories,2812
+2023,Q2,Laptops,Components,1159
+2024,Q2,Laptops,Software Suites,4988
+2025,Q1,Laptops,Software Suites,1077
+2026,Q4,Laptops,Components,3185
+2027,Q4,Desktops,Software Suites,4031
+2028,Q4,Desktops,Components,2196
+2029,Q2,Software,Components,2253
+2030,Q2,Software,Software Suites,3191
+2031,Q3,Software,Accessories,4156
+2032,Q3,Desktops,Accessories,3571
+2033,Q3,Laptops,Accessories,4664
+2034,Q4,Desktops,Components,2261
+2035,Q3,Laptops,Accessories,1044
+2036,Q2,Desktops,Software Suites,3329
+2037,Q4,Laptops,Components,1642
+2038,Q2,Laptops,Software Suites,4704
+2039,Q4,Laptops,Software Suites,2259
+2040,Q3,Peripherals,Components,1434
+2041,Q3,Software,Components,4864
+2042,Q1,Laptops,Software Suites,3350
+2043,Q2,Software,Accessories,2610
+2044,Q2,Software,Software Suites,1880
+2045,Q2,Software,Software Suites,3595
+2046,Q1,Laptops,Components,1948
+2047,Q4,Software,Accessories,3171
+2048,Q1,Software,Components,3620
+2049,Q3,Software,Components,3398
+2050,Q1,Software,Components,3858
+2051,Q1,Desktops,Software Suites,2778
+2052,Q2,Desktops,Accessories,3860
+2053,Q2,Desktops,Accessories,4545
+2054,Q4,Peripherals,Components,2631
+2055,Q4,Software,Software Suites,1555
+2056,Q2,Laptops,Software Suites,2894
+2057,Q1,Laptops,Software Suites,4264
+2058,Q1,Laptops,Accessories,1505
+2059,Q2,Peripherals,Accessories,4755
+2060,Q2,Laptops,Software Suites,2591
+2061,Q3,Peripherals,Software Suites,4062
+2062,Q2,Peripherals,Software Suites,2395
+2063,Q3,Software,Accessories,2120
+2064,Q1,Laptops,Accessories,3102
+2065,Q2,Laptops,Software Suites,4620
+2066,Q3,Laptops,Software Suites,1392
+2067,Q3,Laptops,Software Suites,3502
+2068,Q2,Software,Accessories,3678
+2069,Q4,Software,Software Suites,3132
+2070,Q1,Laptops,Accessories,4392
+2071,Q3,Software,Accessories,4396
+2072,Q1,Software,Software Suites,1878
+2073,Q2,Laptops,Accessories,3788
+2074,Q3,Peripherals,Software Suites,2238
+2075,Q3,Laptops,Software Suites,2572
+2076,Q4,Laptops,Software Suites,2945
+2077,Q2,Desktops,Software Suites,3033
+2078,Q1,Software,Software Suites,3962
+2079,Q2,Laptops,Accessories,4960
+2080,Q4,Laptops,Components,4518
+2081,Q4,Peripherals,Accessories,2763
+2082,Q1,Software,Accessories,1748
+2083,Q4,Peripherals,Components,4204
+2084,Q3,Peripherals,Accessories,3137
+2085,Q2,Peripherals,Components,3425
+2086,Q3,Desktops,Software Suites,2843
+2087,Q3,Desktops,Accessories,2384
+2088,Q1,Peripherals,Components,3439
+2089,Q2,Peripherals,Accessories,4828
+2090,Q1,Software,Components,4473
+2091,Q3,Peripherals,Accessories,2104
+2092,Q4,Peripherals,Accessories,1042
+2093,Q1,Peripherals,Software Suites,4689
+2094,Q3,Peripherals,Accessories,3123
+2095,Q1,Peripherals,Software Suites,3774
+2096,Q2,Peripherals,Software Suites,3045
+2097,Q1,Software,Software Suites,2552
+2098,Q3,Peripherals,Software Suites,1424
+2099,Q2,Desktops,Components,1317
+2100,Q3,Software,Accessories,1557
+2101,Q2,Desktops,Components,1711
+2102,Q2,Desktops,Components,4804
+2103,Q2,Software,Components,3182
+2104,Q2,Laptops,Accessories,3250
+2105,Q1,Desktops,Accessories,4202
+2106,Q2,Laptops,Components,2795
+2107,Q3,Software,Software Suites,1584
+2108,Q2,Peripherals,Accessories,2701
+2109,Q4,Laptops,Software Suites,1390
+2110,Q3,Peripherals,Accessories,4987
+2111,Q2,Peripherals,Software Suites,4820
+2112,Q4,Software,Software Suites,3426
+2113,Q1,Software,Accessories,4045
+2114,Q3,Desktops,Accessories,4477
+2115,Q4,Desktops,Accessories,2624
+2116,Q1,Peripherals,Software Suites,4728
+2117,Q4,Desktops,Accessories,1298
+2118,Q1,Software,Accessories,3910
+2119,Q2,Desktops,Software Suites,1024
+2120,Q2,Desktops,Components,2451
+2121,Q3,Laptops,Software Suites,2589
+2122,Q4,Software,Software Suites,2928
+2123,Q3,Desktops,Accessories,4062
+2124,Q1,Laptops,Software Suites,3214
+2125,Q3,Software,Components,2692
+2126,Q2,Laptops,Software Suites,4676
+2127,Q1,Laptops,Software Suites,3183
+2128,Q3,Software,Components,2657
+2129,Q4,Desktops,Accessories,1140
+2130,Q4,Laptops,Accessories,2931
+2131,Q3,Peripherals,Software Suites,2781
+2132,Q4,Peripherals,Software Suites,4435
+2133,Q1,Software,Accessories,1646
+2134,Q2,Peripherals,Components,4754
+2135,Q4,Laptops,Components,3588
+2136,Q1,Laptops,Software Suites,3546
+2137,Q4,Software,Accessories,1016
+2138,Q2,Laptops,Accessories,2635
+2139,Q2,Peripherals,Components,4713
+2140,Q2,Software,Software Suites,3158
+2141,Q1,Software,Accessories,3738
+2142,Q3,Desktops,Accessories,2651
+2143,Q1,Software,Software Suites,2554
+2144,Q3,Desktops,Components,1039
+2145,Q4,Desktops,Accessories,2522
+2146,Q3,Software,Accessories,2527
+2147,Q4,Software,Software Suites,4713
+2148,Q3,Peripherals,Components,4501
+2149,Q1,Peripherals,Components,2534
+2150,Q4,Laptops,Software Suites,3123
+2151,Q4,Desktops,Accessories,2886
+2152,Q1,Software,Accessories,2337
+2153,Q1,Laptops,Accessories,2342
+2154,Q3,Laptops,Software Suites,1322
+2155,Q3,Software,Components,3251
+2156,Q1,Desktops,Software Suites,4440
+2157,Q2,Desktops,Components,3603
+2158,Q3,Peripherals,Components,2701
+2159,Q4,Desktops,Accessories,4656
+2160,Q4,Laptops,Components,4418
+2161,Q3,Laptops,Accessories,1832
+2162,Q2,Desktops,Components,2893
+2163,Q1,Desktops,Components,2081
+2164,Q4,Peripherals,Software Suites,3090
+2165,Q3,Desktops,Software Suites,1738
+2166,Q1,Desktops,Software Suites,4196
+2167,Q4,Laptops,Accessories,1393
+2168,Q4,Laptops,Components,3188
+2169,Q1,Laptops,Software Suites,1424
+2170,Q4,Software,Software Suites,4550
+2171,Q2,Laptops,Components,1702
+2172,Q4,Peripherals,Software Suites,2261
+2173,Q1,Peripherals,Software Suites,1554
+2174,Q4,Desktops,Accessories,2599
+2175,Q2,Laptops,Accessories,2337
+2176,Q2,Laptops,Components,4883
+2177,Q4,Laptops,Software Suites,3370
+2178,Q3,Software,Software Suites,4033
+2179,Q3,Desktops,Components,1162
+2180,Q2,Software,Components,1979
+2181,Q1,Laptops,Accessories,1027
+2182,Q2,Laptops,Software Suites,2777
+2183,Q4,Peripherals,Accessories,2562
+2184,Q1,Peripherals,Components,1645
+2185,Q1,Peripherals,Accessories,2073
+2186,Q4,Desktops,Components,2212
+2187,Q2,Peripherals,Software Suites,4433
+2188,Q1,Laptops,Software Suites,1607
+2189,Q2,Laptops,Software Suites,2879
+2190,Q2,Peripherals,Components,2939
+2191,Q2,Laptops,Components,3582
+2192,Q3,Peripherals,Accessories,3524
+2193,Q4,Laptops,Accessories,2667
+2194,Q3,Desktops,Accessories,3233
+2195,Q2,Peripherals,Components,2770
+2196,Q1,Laptops,Software Suites,4489
+2197,Q4,Peripherals,Software Suites,1021
+2198,Q2,Desktops,Components,1689
+2199,Q1,Peripherals,Software Suites,1334
+2200,Q1,Desktops,Software Suites,3669
+2201,Q2,Software,Accessories,4265
+2202,Q2,Laptops,Software Suites,4794
+2203,Q2,Peripherals,Software Suites,2884
+2204,Q2,Software,Accessories,3672
+2205,Q1,Software,Software Suites,4130
+2206,Q3,Software,Software Suites,2719
+2207,Q3,Desktops,Accessories,4811
+2208,Q2,Laptops,Components,3372
+2209,Q3,Laptops,Accessories,4868
+2210,Q4,Desktops,Software Suites,3432
+2211,Q4,Peripherals,Accessories,3027
+2212,Q3,Desktops,Accessories,3862
+2213,Q1,Peripherals,Accessories,2165
+2214,Q2,Peripherals,Software Suites,1801
+2215,Q3,Desktops,Accessories,4610
+2216,Q3,Laptops,Software Suites,2551
+2217,Q1,Desktops,Software Suites,3913
+2218,Q1,Software,Software Suites,1393
+2219,Q1,Laptops,Software Suites,4331
+2220,Q4,Software,Software Suites,1954
+2221,Q1,Laptops,Software Suites,2307
+2222,Q2,Software,Components,3391
+2223,Q4,Software,Accessories,3186
+2224,Q1,Peripherals,Components,1776
+2225,Q1,Desktops,Accessories,2853
+2226,Q1,Laptops,Components,3001
+2227,Q4,Software,Accessories,4216
+2228,Q4,Software,Components,2334
+2229,Q1,Desktops,Accessories,1808
+2230,Q4,Laptops,Components,3971
+2231,Q2,Peripherals,Software Suites,1808
+2232,Q1,Peripherals,Components,4447
+2233,Q1,Desktops,Components,1319
+2234,Q3,Peripherals,Software Suites,1313
+2235,Q1,Desktops,Software Suites,4142
+2236,Q1,Desktops,Components,2961
+2237,Q1,Peripherals,Accessories,2715
+2238,Q3,Peripherals,Software Suites,3717
+2239,Q4,Laptops,Accessories,1320
+2240,Q1,Software,Software Suites,2607
+2241,Q4,Desktops,Components,3027
+2242,Q2,Laptops,Accessories,2550
+2243,Q4,Software,Accessories,2884
+2244,Q2,Software,Software Suites,2863
+2245,Q4,Peripherals,Accessories,1032
+2246,Q4,Peripherals,Software Suites,3207
+2247,Q3,Desktops,Accessories,3384
+2248,Q3,Laptops,Software Suites,4549
+2249,Q4,Desktops,Accessories,2430
+2250,Q4,Desktops,Accessories,3650
+2251,Q4,Peripherals,Software Suites,3510
+2252,Q1,Desktops,Components,4343
+2253,Q1,Desktops,Components,2569
+2254,Q3,Software,Software Suites,4694
+2255,Q1,Desktops,Software Suites,2604
+2256,Q3,Software,Accessories,3292
+2257,Q3,Laptops,Accessories,4515
+2258,Q2,Peripherals,Accessories,3622
+2259,Q4,Peripherals,Components,2485
+2260,Q4,Software,Components,2104
+2261,Q4,Software,Software Suites,3710
+2262,Q2,Laptops,Components,4705
+2263,Q2,Laptops,Software Suites,4474
+2264,Q4,Peripherals,Accessories,2807
+2265,Q2,Software,Software Suites,2348
+2266,Q1,Peripherals,Software Suites,1500
+2267,Q1,Software,Software Suites,4728
+2268,Q3,Desktops,Software Suites,4327
+2269,Q4,Peripherals,Components,3899
+2270,Q3,Laptops,Software Suites,1041
+2271,Q1,Laptops,Accessories,1488
+2272,Q1,Software,Accessories,1798
+2273,Q3,Desktops,Accessories,4596
+2274,Q1,Software,Components,1393
+2275,Q4,Laptops,Software Suites,4221
+2276,Q2,Laptops,Software Suites,1094
+2277,Q1,Peripherals,Accessories,4183
+2278,Q4,Laptops,Components,2731
+2279,Q3,Peripherals,Accessories,4265
+2280,Q3,Laptops,Accessories,1097
+2281,Q3,Software,Accessories,1732
+2282,Q1,Desktops,Accessories,1882
+2283,Q4,Peripherals,Software Suites,2363
+2284,Q4,Peripherals,Accessories,3516
+2285,Q4,Software,Components,2143
+2286,Q2,Software,Components,3165
+2287,Q3,Software,Software Suites,3305
+2288,Q3,Laptops,Software Suites,4742
+2289,Q2,Laptops,Software Suites,1451
+2290,Q1,Desktops,Accessories,4220
+2291,Q3,Desktops,Components,4859
+2292,Q1,Software,Accessories,1194
+2293,Q2,Desktops,Components,2332
+2294,Q4,Desktops,Software Suites,4257
+2295,Q1,Software,Software Suites,1422
+2296,Q2,Peripherals,Accessories,3729
+2297,Q3,Peripherals,Accessories,4875
+2298,Q4,Peripherals,Software Suites,1326
+2299,Q3,Laptops,Components,2896
+2300,Q1,Software,Accessories,1450
+2301,Q3,Laptops,Software Suites,1059
+2302,Q3,Peripherals,Accessories,4508
+2303,Q3,Software,Accessories,4694
+2304,Q2,Peripherals,Software Suites,1003
+2305,Q1,Laptops,Software Suites,3832
+2306,Q2,Peripherals,Accessories,4125
+2307,Q4,Laptops,Components,2849
+2308,Q4,Laptops,Components,4523
+2309,Q4,Software,Components,1107
+2310,Q1,Peripherals,Components,1986
+2311,Q4,Laptops,Accessories,1791
+2312,Q4,Software,Software Suites,1241
+2313,Q1,Desktops,Accessories,1394
+2314,Q2,Peripherals,Accessories,1058
+2315,Q2,Laptops,Software Suites,1240
+2316,Q4,Peripherals,Software Suites,1756
+2317,Q3,Software,Accessories,1961
+2318,Q3,Laptops,Components,3552
+2319,Q2,Peripherals,Components,4274
+2320,Q4,Desktops,Software Suites,2501
+2321,Q3,Software,Accessories,4817
+2322,Q1,Software,Accessories,2324
+2323,Q2,Desktops,Software Suites,1665
+2324,Q4,Peripherals,Components,2466
+2325,Q3,Peripherals,Software Suites,1871
+2326,Q4,Software,Software Suites,4865
+2327,Q3,Peripherals,Accessories,1217
+2328,Q1,Software,Components,4146
+2329,Q2,Peripherals,Components,2439
+2330,Q2,Desktops,Software Suites,2520
+2331,Q2,Software,Software Suites,1503
+2332,Q2,Laptops,Components,1618
+2333,Q4,Laptops,Software Suites,2648
+2334,Q2,Peripherals,Software Suites,4567
+2335,Q2,Laptops,Components,2597
+2336,Q2,Software,Software Suites,2921
+2337,Q2,Peripherals,Accessories,3935
+2338,Q4,Peripherals,Software Suites,3801
+2339,Q4,Laptops,Accessories,4235
+2340,Q1,Desktops,Components,3579
+2341,Q3,Desktops,Components,3627
+2342,Q2,Desktops,Software Suites,3861
+2343,Q4,Desktops,Software Suites,1480
+2344,Q4,Software,Software Suites,1898
+2345,Q4,Desktops,Software Suites,3749
+2346,Q4,Peripherals,Components,3013
+2347,Q2,Peripherals,Software Suites,4615
+2348,Q1,Peripherals,Software Suites,1074
+2349,Q4,Peripherals,Accessories,3775
+2350,Q2,Peripherals,Accessories,1783
+2351,Q4,Laptops,Software Suites,1458
+2352,Q1,Desktops,Components,2205
+2353,Q4,Desktops,Accessories,4267
+2354,Q2,Desktops,Accessories,1764
+2355,Q2,Software,Components,4880
+2356,Q1,Laptops,Components,1456
+2357,Q1,Desktops,Software Suites,2759
+2358,Q2,Peripherals,Software Suites,1694
+2359,Q4,Desktops,Software Suites,1819
+2360,Q1,Peripherals,Components,2599
+2361,Q4,Desktops,Accessories,2758
+2362,Q2,Laptops,Accessories,1065
+2363,Q2,Desktops,Components,3512
+2364,Q3,Software,Accessories,1992
+2365,Q1,Desktops,Accessories,4731
+2366,Q3,Desktops,Accessories,4186
+2367,Q1,Laptops,Software Suites,1508
+2368,Q4,Laptops,Components,4337
+2369,Q1,Desktops,Components,1553
+2370,Q3,Peripherals,Accessories,2285
+2371,Q4,Peripherals,Software Suites,2803
+2372,Q4,Laptops,Components,1046
+2373,Q4,Desktops,Software Suites,3390
+2374,Q1,Laptops,Accessories,2341
+2375,Q1,Software,Components,2838
+2376,Q2,Laptops,Software Suites,1106
+2377,Q2,Software,Accessories,4444
+2378,Q1,Software,Accessories,3109
+2379,Q2,Peripherals,Software Suites,4202
+2380,Q1,Laptops,Accessories,3400
+2381,Q1,Laptops,Components,2738
+2382,Q3,Peripherals,Components,3676
+2383,Q3,Software,Components,1540
+2384,Q2,Peripherals,Components,1372
+2385,Q1,Desktops,Software Suites,3905
+2386,Q4,Peripherals,Software Suites,3666
+2387,Q4,Peripherals,Software Suites,1676
+2388,Q1,Peripherals,Components,4737
+2389,Q1,Laptops,Accessories,1438
+2390,Q1,Desktops,Components,3507
+2391,Q4,Desktops,Accessories,2319
+2392,Q1,Laptops,Accessories,4015
+2393,Q3,Desktops,Accessories,3534
+2394,Q4,Peripherals,Software Suites,3453
+2395,Q2,Laptops,Software Suites,4953
+2396,Q2,Laptops,Accessories,1798
+2397,Q1,Desktops,Software Suites,2351
+2398,Q1,Peripherals,Software Suites,3874
+2399,Q4,Software,Components,3754
+2400,Q4,Desktops,Software Suites,1106
+2401,Q4,Laptops,Software Suites,4431
+2402,Q1,Desktops,Components,4277
+2403,Q3,Desktops,Accessories,2334
+2404,Q4,Laptops,Accessories,3398
+2405,Q3,Peripherals,Software Suites,3662
+2406,Q2,Laptops,Components,3845
+2407,Q3,Laptops,Components,1740
+2408,Q3,Software,Software Suites,4438
+2409,Q1,Laptops,Software Suites,2028
+2410,Q2,Laptops,Software Suites,1813
+2411,Q4,Laptops,Accessories,4564
+2412,Q2,Laptops,Components,2764
+2413,Q3,Laptops,Accessories,3248
+2414,Q3,Desktops,Accessories,3885
+2415,Q4,Software,Components,2317
+2416,Q2,Desktops,Components,4291
+2417,Q1,Software,Software Suites,3054
+2418,Q4,Laptops,Accessories,2471
+2419,Q3,Desktops,Components,4081
+2420,Q2,Peripherals,Software Suites,4557
+2421,Q2,Software,Components,1425
+2422,Q2,Laptops,Software Suites,3436
+2423,Q4,Software,Software Suites,1559
+2424,Q2,Laptops,Software Suites,4698
+2425,Q2,Peripherals,Software Suites,3814
+2426,Q4,Desktops,Accessories,3709
+2427,Q4,Software,Components,4325
+2428,Q4,Laptops,Components,1262
+2429,Q4,Peripherals,Components,2915
+2430,Q4,Desktops,Components,4261
+2431,Q4,Peripherals,Software Suites,1704
+2432,Q2,Laptops,Software Suites,2746
+2433,Q1,Peripherals,Components,4602
+2434,Q1,Laptops,Accessories,4301
+2435,Q4,Laptops,Software Suites,1866
+2436,Q4,Peripherals,Components,2970
+2437,Q4,Peripherals,Accessories,2978
+2438,Q2,Laptops,Components,1090
+2439,Q3,Desktops,Components,3859
+2440,Q3,Peripherals,Accessories,4827
+2441,Q3,Desktops,Components,4149
+2442,Q2,Laptops,Components,2057
+2443,Q1,Software,Software Suites,3371
+2444,Q2,Software,Accessories,4311
+2445,Q1,Laptops,Software Suites,2853
+2446,Q1,Peripherals,Components,4468
+2447,Q1,Software,Software Suites,4246
+2448,Q4,Laptops,Software Suites,2068
+2449,Q3,Software,Accessories,2655
+2450,Q1,Desktops,Components,4932
+2451,Q4,Peripherals,Components,4010
+2452,Q2,Desktops,Components,1532
+2453,Q2,Laptops,Accessories,2695
+2454,Q3,Laptops,Software Suites,4347
+2455,Q4,Software,Accessories,2430
+2456,Q2,Desktops,Components,3524
+2457,Q3,Software,Software Suites,3984
+2458,Q4,Peripherals,Components,3249
+2459,Q1,Laptops,Components,1054
+2460,Q3,Peripherals,Components,1005
+2461,Q1,Desktops,Software Suites,4746
+2462,Q1,Software,Software Suites,3174
+2463,Q2,Desktops,Accessories,3383
+2464,Q1,Desktops,Accessories,1660
+2465,Q4,Peripherals,Accessories,2837
+2466,Q1,Peripherals,Accessories,3343
+2467,Q3,Peripherals,Accessories,2427
+2468,Q1,Desktops,Components,4714
+2469,Q1,Laptops,Software Suites,3597
+2470,Q1,Software,Software Suites,4942
+2471,Q3,Laptops,Accessories,2497
+2472,Q1,Peripherals,Accessories,1984
+2473,Q2,Laptops,Accessories,1289
+2474,Q1,Laptops,Accessories,3714
+2475,Q3,Peripherals,Accessories,4945
+2476,Q1,Peripherals,Components,3842
+2477,Q2,Laptops,Accessories,1472
+2478,Q4,Software,Software Suites,4554
+2479,Q3,Laptops,Components,3528
+2480,Q4,Peripherals,Software Suites,1877
+2481,Q3,Desktops,Software Suites,2082
+2482,Q4,Laptops,Software Suites,3310
+2483,Q4,Peripherals,Accessories,1996
+2484,Q3,Desktops,Accessories,3370
+2485,Q4,Peripherals,Accessories,1439
+2486,Q1,Peripherals,Software Suites,1104
+2487,Q4,Peripherals,Software Suites,4613
+2488,Q1,Software,Software Suites,3906
+2489,Q4,Desktops,Components,2890
+2490,Q4,Peripherals,Accessories,4254
+2491,Q3,Laptops,Software Suites,1324
+2492,Q2,Desktops,Software Suites,4838
+2493,Q3,Laptops,Accessories,2378
+2494,Q3,Software,Software Suites,1817
+2495,Q3,Desktops,Accessories,3394
+2496,Q2,Desktops,Accessories,2948
+2497,Q1,Software,Accessories,4523
+2498,Q2,Peripherals,Accessories,1125
+2499,Q1,Desktops,Accessories,2605
